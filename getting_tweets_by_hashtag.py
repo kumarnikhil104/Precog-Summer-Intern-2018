@@ -40,13 +40,13 @@ print(api.rate_limit_status()['resources']['search'] )
 We are all set for making the query we'll seprate the mutiple HASHTAGS by using OR.
 Note: Try to keep the query less than 140 characters
 '''
-query='#myrighttobreathe OR #smog OR #crop Burning OR\
+query_delhi='#myrighttobreathe OR #smog OR #crop Burning OR\
 		 #delhi OR #delhichokes OR #AirPollution OR \
 			#StopPollutionCrimes OR #letdelhibreathe OR #smoginDelhi OR \
 			 #Delhi_Pollution OR #delhismog OR #delhipollution'
 
-
-no_of_tweets= 10000 		# The number of tweets you want to collect.
-no_of_tweets_per_query=100  # As Specified in the Note above
-collected_tweet=0 			# keeping count of the no. of tweets which has been collected
+#query_mumbai='#CycloneOckhi OR #MumbaiRains OR #MumbaiRain OR #Cyclone OR #Ockhi'
+no_of_tweets= 10000 			# The number of tweets you want to collect.
+no_of_tweets_per_query=100  	# As Specified in the Note above
+collected_tweet=0 				# keeping count of the no. of tweets which has been collected
 
