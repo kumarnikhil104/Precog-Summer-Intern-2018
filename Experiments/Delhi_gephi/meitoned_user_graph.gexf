@@ -1,0 +1,2314 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>13/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="_garrywalia" label="_garrywalia" />
+      <node id="ArvindKejriwal" label="ArvindKejriwal" />
+      <node id="NVJRobins1" label="NVJRobins1" />
+      <node id="RI_News_Alert" label="RI_News_Alert" />
+      <node id="SadiqKhan" label="SadiqKhan" />
+      <node id="NewWeatherInst" label="NewWeatherInst" />
+      <node id="AndrewSimms_uk" label="AndrewSimms_uk" />
+      <node id="davidboyle1958" label="davidboyle1958" />
+      <node id="GetZilient" label="GetZilient" />
+      <node id="MickSTaylor" label="MickSTaylor" />
+      <node id="BCCI" label="BCCI" />
+      <node id="OfficialSLC" label="OfficialSLC" />
+      <node id="fabianloehe" label="fabianloehe" />
+      <node id="FAHarms" label="FAHarms" />
+      <node id="EU_Commission" label="EU_Commission" />
+      <node id="ClientEarth_PL" label="ClientEarth_PL" />
+      <node id="k_bolesta" label="k_bolesta" />
+      <node id="Ravinda52329737" label="Ravinda52329737" />
+      <node id="VarshaDasi" label="VarshaDasi" />
+      <node id="kyayaar123" label="kyayaar123" />
+      <node id="Ewa_Bxl" label="Ewa_Bxl" />
+      <node id="MAC_europa" label="MAC_europa" />
+      <node id="IndianKimJongUn" label="IndianKimJongUn" />
+      <node id="PremierRP" label="PremierRP" />
+      <node id="BeataSzydlo" label="BeataSzydlo" />
+      <node id="Piotr_Stepinski" label="Piotr_Stepinski" />
+      <node id="EUinPL" label="EUinPL" />
+      <node id="warszawa" label="warszawa" />
+      <node id="PolitykaInsight" label="PolitykaInsight" />
+      <node id="pkgurgaon" label="pkgurgaon" />
+      <node id="mlkhattar" label="mlkhattar" />
+      <node id="Zarmina94" label="Zarmina94" />
+      <node id="SDPIPakistan" label="SDPIPakistan" />
+      <node id="MadalenkaPL" label="MadalenkaPL" />
+      <node id="Tash_Witk" label="Tash_Witk" />
+      <node id="OlgaSzymkiewicz" label="OlgaSzymkiewicz" />
+      <node id="JoankaSW" label="JoankaSW" />
+      <node id="Nowoczesna" label="Nowoczesna" />
+      <node id="RyszardPetru" label="RyszardPetru" />
+      <node id="ZbigniewHoldys" label="ZbigniewHoldys" />
+      <node id="ObywateleRP" label="ObywateleRP" />
+      <node id="TomaszBorejza" label="TomaszBorejza" />
+      <node id="SmogLab" label="SmogLab" />
+      <node id="mairodrigz" label="mairodrigz" />
+      <node id="TiempoCom" label="TiempoCom" />
+      <node id="NWSSeattle" label="NWSSeattle" />
+      <node id="yordanpopovbg" label="yordanpopovbg" />
+      <node id="HighBPNews" label="HighBPNews" />
+      <node id="thecyberbully13" label="thecyberbully13" />
+      <node id="aloknath" label="aloknath" />
+      <node id="UNEPAsiaPacific" label="UNEPAsiaPacific" />
+      <node id="deespeak" label="deespeak" />
+      <node id="rybnikeu" label="rybnikeu" />
+      <node id="kuczerapiotr" label="kuczerapiotr" />
+      <node id="SachinC36297527" label="SachinC36297527" />
+      <node id="BJP4India" label="BJP4India" />
+      <node id="ESA_EO" label="ESA_EO" />
+      <node id="CopernicusEU" label="CopernicusEU" />
+      <node id="JanMencwel" label="JanMencwel" />
+      <node id="MiastoJestNasze" label="MiastoJestNasze" />
+      <node id="DailyO_" label="DailyO_" />
+      <node id="RajarshiGupta_8" label="RajarshiGupta_8" />
+      <node id="cmohry" label="cmohry" />
+      <node id="moefcc" label="moefcc" />
+      <node id="drharshvardhan" label="drharshvardhan" />
+      <node id="RSSorg" label="RSSorg" />
+      <node id="Greenpeace_PL" label="Greenpeace_PL" />
+      <node id="MinEnergii" label="MinEnergii" />
+      <node id="alarm_smogowy" label="alarm_smogowy" />
+      <node id="Radio_TOK_FM" label="Radio_TOK_FM" />
+      <node id="iar_pr" label="iar_pr" />
+      <node id="PAPinformacje" label="PAPinformacje" />
+      <node id="SerwisZdrowie" label="SerwisZdrowie" />
+      <node id="bomiasto" label="bomiasto" />
+      <node id="WojciechSaluga" label="WojciechSaluga" />
+      <node id="econromesh" label="econromesh" />
+      <node id="Ideas4India" label="Ideas4India" />
+      <node id="patryk_bialas" label="patryk_bialas" />
+      <node id="CNNnews18" label="CNNnews18" />
+      <node id="Zakka_Jacob" label="Zakka_Jacob" />
+      <node id="The_Nation" label="The_Nation" />
+      <node id="PSamorzadowy" label="PSamorzadowy" />
+      <node id="timesofindia" label="timesofindia" />
+      <node id="KnowAboutThugs" label="KnowAboutThugs" />
+      <node id="ms_rana" label="ms_rana" />
+      <node id="snjykhtr" label="snjykhtr" />
+      <node id="Citizensforair" label="Citizensforair" />
+      <node id="SalvaiciclistiR" label="SalvaiciclistiR" />
+      <node id="pociaggory" label="pociaggory" />
+      <node id="IlonaPietrzak" label="IlonaPietrzak" />
+      <node id="Rafal_Gorski" label="Rafal_Gorski" />
+      <node id="piotrapel" label="piotrapel" />
+      <node id="stspring" label="stspring" />
+      <node id="BeingSalmanKhan" label="BeingSalmanKhan" />
+      <node id="IPL" label="IPL" />
+      <node id="PMOIndia" label="PMOIndia" />
+      <node id="Indemb_Muscat" label="Indemb_Muscat" />
+      <node id="HMOIndia" label="HMOIndia" />
+      <node id="vimlendu" label="vimlendu" />
+      <node id="cricketguru" label="cricketguru" />
+      <node id="NFOSiGW" label="NFOSiGW" />
+      <node id="HJaluthariya" label="HJaluthariya" />
+      <node id="SatlokChannel" label="SatlokChannel" />
+      <node id="TR_Foundation" label="TR_Foundation" />
+      <node id="INCIndia" label="INCIndia" />
+      <node id="DeependerSHooda" label="DeependerSHooda" />
+      <node id="narendramodi" label="narendramodi" />
+      <node id="ASKardar" label="ASKardar" />
+      <node id="AmirMateen2" label="AmirMateen2" />
+      <node id="KlasraRauf" label="KlasraRauf" />
+      <node id="sarwatvalim" label="sarwatvalim" />
+      <node id="ObamaFoundation" label="ObamaFoundation" />
+      <node id="BarackObama" label="BarackObama" />
+      <node id="M5SER" label="M5SER" />
+      <node id="gianlucasassi" label="gianlucasassi" />
+      <node id="dellorco85" label="dellorco85" />
+      <node id="TOIDelhi" label="TOIDelhi" />
+      <node id="clutchplay" label="clutchplay" />
+      <node id="imVkohli" label="imVkohli" />
+      <node id="MdShami11" label="MdShami11" />
+      <node id="SidharthNSingh" label="SidharthNSingh" />
+      <node id="CMOfficeUP" label="CMOfficeUP" />
+      <node id="governancenow" label="governancenow" />
+      <node id="TheLancet" label="TheLancet" />
+      <node id="AAPDelhi" label="AAPDelhi" />
+      <node id="SirJadeja" label="SirJadeja" />
+      <node id="HaydosTweets" label="HaydosTweets" />
+      <node id="RusselArnold69" label="RusselArnold69" />
+      <node id="mvj888" label="mvj888" />
+      <node id="SaritaC66829865" label="SaritaC66829865" />
+      <node id="BagatManmohan" label="BagatManmohan" />
+      <node id="StarSportsIndia" label="StarSportsIndia" />
+      <node id="virendersehwag" label="virendersehwag" />
+      <node id="OmendraBharat" label="OmendraBharat" />
+      <node id="ANI" label="ANI" />
+      <node id="aajtak" label="aajtak" />
+      <node id="bhogleharsha" label="bhogleharsha" />
+      <node id="cricbuzz" label="cricbuzz" />
+      <node id="MahimaSharmaS" label="MahimaSharmaS" />
+      <node id="Abyaz_NN" label="Abyaz_NN" />
+      <node id="swetasri_nn" label="swetasri_nn" />
+      <node id="Vatsalyarai" label="Vatsalyarai" />
+      <node id="Vanket1" label="Vanket1" />
+      <node id="rainaswati" label="rainaswati" />
+      <node id="AnupamTrivedi26" label="AnupamTrivedi26" />
+      <node id="anujajTOI" label="anujajTOI" />
+      <node id="sardesairajdeep" label="sardesairajdeep" />
+      <node id="LungAssociation" label="LungAssociation" />
+      <node id="atscommunity" label="atscommunity" />
+      <node id="PublicHealth" label="PublicHealth" />
+      <node id="MrTimDunn" label="MrTimDunn" />
+      <node id="RIBA" label="RIBA" />
+      <node id="fabrizioassandr" label="fabrizioassandr" />
+      <node id="StampaTorino" label="StampaTorino" />
+      <node id="UPWroclaw" label="UPWroclaw" />
+      <node id="PWr_Wroclaw" label="PWr_Wroclaw" />
+      <node id="umed_wroc" label="umed_wroc" />
+      <node id="HEALPolska" label="HEALPolska" />
+      <node id="kamilwyszkowski" label="kamilwyszkowski" />
+      <node id="WHO" label="WHO" />
+      <node id="EDRzeszow" label="EDRzeszow" />
+      <node id="torunpl" label="torunpl" />
+      <node id="LubieTuByc" label="LubieTuByc" />
+      <node id="ShinjiniG" label="ShinjiniG" />
+      <node id="the_hindu" label="the_hindu" />
+      <node id="DelhiConnect" label="DelhiConnect" />
+      <node id="abaruah64" label="abaruah64" />
+      <node id="mustvisit2020" label="mustvisit2020" />
+      <node id="aahnas1" label="aahnas1" />
+      <node id="SkymetWeather" label="SkymetWeather" />
+      <node id="MahelaJay" label="MahelaJay" />
+      <node id="Angelo69Mathews" label="Angelo69Mathews" />
+      <node id="chandi_17" label="chandi_17" />
+      <node id="LucaLombroso" label="LucaLombroso" />
+      <node id="Grabbi_it" label="Grabbi_it" />
+      <node id="mma1982fortis" label="mma1982fortis" />
+      <node id="Bhupenpunia" label="Bhupenpunia" />
+      <node id="ZeeNewsHindi" label="ZeeNewsHindi" />
+      <node id="Dailymirror_SL" label="Dailymirror_SL" />
+      <node id="rahulkanwal" label="rahulkanwal" />
+      <node id="airqualityindia" label="airqualityindia" />
+      <node id="Delhi_Pollution" label="Delhi_Pollution" />
+      <node id="OXYCHARGE95" label="OXYCHARGE95" />
+      <node id="vinodk1969" label="vinodk1969" />
+      <node id="twitorino" label="twitorino" />
+      <node id="ComuneMI" label="ComuneMI" />
+      <node id="Roma" label="Roma" />
+      <node id="CricketTrolls" label="CricketTrolls" />
+      <node id="spfcpakistan" label="spfcpakistan" />
+      <node id="SyedMAbubakar" label="SyedMAbubakar" />
+      <node id="UrbanDeptDelhi" label="UrbanDeptDelhi" />
+      <node id="TLO_PolsatNews" label="TLO_PolsatNews" />
+      <node id="PolsatNewsPL" label="PolsatNewsPL" />
+      <node id="zachodni" label="zachodni" />
+      <node id="pid_gov" label="pid_gov" />
+      <node id="ImranKhanPTI" label="ImranKhanPTI" />
+      <node id="RjPuneet" label="RjPuneet" />
+      <node id="vip_lokesh" label="vip_lokesh" />
+      <node id="smartcityfbd" label="smartcityfbd" />
+      <node id="MSJEGOI" label="MSJEGOI" />
+      <node id="SwachhBharatGov" label="SwachhBharatGov" />
+      <node id="InUthdotcom" label="InUthdotcom" />
+      <node id="molszew77" label="molszew77" />
+      <node id="M_Bartkowicz" label="M_Bartkowicz" />
+      <node id="RadioKrakow" label="RadioKrakow" />
+      <node id="anussaeed1" label="anussaeed1" />
+      <node id="sohailimrangeo" label="sohailimrangeo" />
+      <node id="IbrahimBadees" label="IbrahimBadees" />
+      <node id="TheRealPCB" label="TheRealPCB" />
+      <node id="najamsethi" label="najamsethi" />
+      <node id="KapilMishra_IND" label="KapilMishra_IND" />
+      <node id="ravivermakqr" label="ravivermakqr" />
+      <node id="SdDurgesh" label="SdDurgesh" />
+      <node id="NootanGupta1" label="NootanGupta1" />
+      <node id="Bugsssssssss" label="Bugsssssssss" />
+      <node id="hvgoenka" label="hvgoenka" />
+      <node id="Prem__JP" label="Prem__JP" />
+      <node id="thefield_in" label="thefield_in" />
+      <node id="CkKhannaBCCI" label="CkKhannaBCCI" />
+      <node id="7SealsOfTheEnd" label="7SealsOfTheEnd" />
+      <node id="Krommsan" label="Krommsan" />
+      <node id="rajnathsingh" label="rajnathsingh" />
+      <node id="KumarSanga2" label="KumarSanga2" />
+      <node id="mratnesh23" label="mratnesh23" />
+      <node id="VVSLaxman281" label="VVSLaxman281" />
+      <node id="dm_ghaziabad" label="dm_ghaziabad" />
+      <node id="myogiadityanath" label="myogiadityanath" />
+      <node id="virupanti" label="virupanti" />
+      <node id="rupeshsharma02" label="rupeshsharma02" />
+      <node id="ManojTiwariMP" label="ManojTiwariMP" />
+      <node id="JPNadda" label="JPNadda" />
+      <node id="SatyendarJain" label="SatyendarJain" />
+      <node id="chauhanshubhang" label="chauhanshubhang" />
+      <node id="prashantruia" label="prashantruia" />
+      <node id="Essar_Steel" label="Essar_Steel" />
+      <node id="ndtv" label="ndtv" />
+      <node id="imkuldeep18" label="imkuldeep18" />
+      <node id="TroluKejri" label="TroluKejri" />
+      <node id="SirJadejaaaa" label="SirJadejaaaa" />
+      <node id="tariqal" label="tariqal" />
+      <node id="JeffDSachs" label="JeffDSachs" />
+      <node id="AndrzejRysuje" label="AndrzejRysuje" />
+      <node id="gazeta_wyborcza" label="gazeta_wyborcza" />
+      <node id="HusariaMKTG" label="HusariaMKTG" />
+      <node id="mycitytree" label="mycitytree" />
+      <node id="PogodaMeteo" label="PogodaMeteo" />
+      <node id="MeteoprognozaPL" label="MeteoprognozaPL" />
+      <node id="meteopomorze" label="meteopomorze" />
+      <node id="a_dziedzic" label="a_dziedzic" />
+      <node id="DorotaNiecko" label="DorotaNiecko" />
+      <node id="TwarogMarcin" label="TwarogMarcin" />
+      <node id="PJedlecki" label="PJedlecki" />
+      <node id="MarekTwarog" label="MarekTwarog" />
+      <node id="Grubiusz" label="Grubiusz" />
+      <node id="Jeetendradas4" label="Jeetendradas4" />
+      <node id="RafalWos" label="RafalWos" />
+      <node id="80gam_pl" label="80gam_pl" />
+      <node id="MiastoZakopane" label="MiastoZakopane" />
+      <node id="Mlekovita" label="Mlekovita" />
+      <node id="24tp_pl" label="24tp_pl" />
+      <node id="SzKedz" label="SzKedz" />
+      <node id="FaktyTVN" label="FaktyTVN" />
+      <node id="RadiowaTrojka" label="RadiowaTrojka" />
+      <node id="Sosnowiecmiasto" label="Sosnowiecmiasto" />
+      <node id="CzeladzFajna" label="CzeladzFajna" />
+      <node id="PowiatBedzinski" label="PowiatBedzinski" />
+      <node id="noman_env" label="noman_env" />
+      <node id="GovtOfPunjab" label="GovtOfPunjab" />
+      <node id="IndiaToday" label="IndiaToday" />
+      <node id="KarmanyeIndia" label="KarmanyeIndia" />
+      <node id="wganapini" label="wganapini" />
+      <node id="JagiellonskiUni" label="JagiellonskiUni" />
+      <node id="zielen_krakow" label="zielen_krakow" />
+      <node id="BiznesAlert" label="BiznesAlert" />
+      <node id="m_roszkowski" label="m_roszkowski" />
+      <node id="styszka" label="styszka" />
+      <node id="ZaglebAlarmSmog" label="ZaglebAlarmSmog" />
+      <node id="Ciepiela_Darek" label="Ciepiela_Darek" />
+      <node id="SzymczykT" label="SzymczykT" />
+      <node id="matzaleski" label="matzaleski" />
+      <node id="WyborczaSosno" label="WyborczaSosno" />
+      <node id="WMarczyk" label="WMarczyk" />
+      <node id="MoodyMotu" label="MoodyMotu" />
+      <node id="RomanaRaza" label="RomanaRaza" />
+      <node id="jayniecakes" label="jayniecakes" />
+      <node id="angelcakephotos" label="angelcakephotos" />
+      <node id="kkarolczak" label="kkarolczak" />
+      <node id="mkaczerowski" label="mkaczerowski" />
+      <node id="Vattenfall_De" label="Vattenfall_De" />
+      <node id="umkatowice" label="umkatowice" />
+      <node id="KrupaMarcinpl" label="KrupaMarcinpl" />
+      <node id="MarekJozefiak" label="MarekJozefiak" />
+      <node id="Ananddaas4" label="Ananddaas4" />
+      <node id="krakow_pl" label="krakow_pl" />
+      <node id="lovekrakow" label="lovekrakow" />
+      <node id="airtelindia" label="airtelindia" />
+      <node id="Airtel_Presence" label="Airtel_Presence" />
+      <node id="Agari_Jestem" label="Agari_Jestem" />
+      <node id="DMSPOLAND_1" label="DMSPOLAND_1" />
+      <node id="demmy747" label="demmy747" />
+      <node id="shwetapunj" label="shwetapunj" />
+      <node id="scbansia2014" label="scbansia2014" />
+      <node id="jaanebhido123" label="jaanebhido123" />
+      <node id="GodGiftLife0" label="GodGiftLife0" />
+      <node id="NabzTweet" label="NabzTweet" />
+      <node id="CSEINDIA" label="CSEINDIA" />
+      <node id="IndiaSpendAir" label="IndiaSpendAir" />
+      <node id="sharmapooja000" label="sharmapooja000" />
+      <node id="TgrPiemonte" label="TgrPiemonte" />
+      <node id="TgrRai" label="TgrRai" />
+      <node id="PTVNewsOfficial" label="PTVNewsOfficial" />
+      <node id="RadioPakistan" label="RadioPakistan" />
+      <node id="UN" label="UN" />
+      <node id="jmpandera" label="jmpandera" />
+      <node id="ForumEnergii" label="ForumEnergii" />
+      <node id="MariaSmietanka" label="MariaSmietanka" />
+      <node id="the_mehar_singh" label="the_mehar_singh" />
+      <node id="i_me_my5elf" label="i_me_my5elf" />
+      <node id="AlifAilaan" label="AlifAilaan" />
+      <node id="mhzaman" label="mhzaman" />
+      <node id="Edinburgh_CC" label="Edinburgh_CC" />
+      <node id="ivebeeniced" label="ivebeeniced" />
+      <node id="edinhelp" label="edinhelp" />
+      <node id="edinburghpaper" label="edinburghpaper" />
+      <node id="bobbyllew" label="bobbyllew" />
+      <node id="ChargePlaceScot" label="ChargePlaceScot" />
+      <node id="EVA_Scotland" label="EVA_Scotland" />
+      <node id="transcotland" label="transcotland" />
+      <node id="c_appendino" label="c_appendino" />
+      <node id="iAtulB" label="iAtulB" />
+      <node id="pankaj_ghadge" label="pankaj_ghadge" />
+      <node id="fsahat" label="fsahat" />
+      <node id="CMShehbaz" label="CMShehbaz" />
+      <node id="Bazoom_" label="Bazoom_" />
+      <node id="maltiq" label="maltiq" />
+      <node id="IAmDavidYapII" label="IAmDavidYapII" />
+      <node id="ithrusthard" label="ithrusthard" />
+      <node id="AttyKarenJimeno" label="AttyKarenJimeno" />
+      <node id="kob0331" label="kob0331" />
+      <node id="ericarreza" label="ericarreza" />
+      <node id="krakenzilla_pow" label="krakenzilla_pow" />
+      <node id="Dutertenomics" label="Dutertenomics" />
+      <node id="MichalakJerzy" label="MichalakJerzy" />
+      <node id="Dolny_Slask" label="Dolny_Slask" />
+      <node id="LombardiaOnLine" label="LombardiaOnLine" />
+      <node id="arpalombardia" label="arpalombardia" />
+      <node id="Ombhai3" label="Ombhai3" />
+      <node id="EBienkowskaEU" label="EBienkowskaEU" />
+      <node id="Smogathon" label="Smogathon" />
+      <node id="janusz_walczak" label="janusz_walczak" />
+      <node id="MiastoGdynia" label="MiastoGdynia" />
+      <node id="MarWojRP" label="MarWojRP" />
+      <node id="journokanwar" label="journokanwar" />
+      <node id="arunjaitley" label="arunjaitley" />
+      <node id="sandhyatimes4u" label="sandhyatimes4u" />
+      <node id="PreetyAgarwaal" label="PreetyAgarwaal" />
+      <node id="rameshwar_ST" label="rameshwar_ST" />
+      <node id="mukesh_Vashisth" label="mukesh_Vashisth" />
+      <node id="SmokSmogbot" label="SmokSmogbot" />
+      <node id="RadioGdansk" label="RadioGdansk" />
+      <node id="VelinoCampania" label="VelinoCampania" />
+      <node id="NotizieFrance" label="NotizieFrance" />
+      <node id="jksmith34" label="jksmith34" />
+      <node id="cleanairasia" label="cleanairasia" />
+      <node id="vikranttongad" label="vikranttongad" />
+      <node id="BhushanTuladhar" label="BhushanTuladhar" />
+      <node id="sumeramunir1" label="sumeramunir1" />
+      <node id="dimpy1998" label="dimpy1998" />
+      <node id="BiggBossNewz" label="BiggBossNewz" />
+      <node id="i_priyanksharma" label="i_priyanksharma" />
+      <node id="eyehinakhan" label="eyehinakhan" />
+      <node id="LtGovDelhi" label="LtGovDelhi" />
+      <node id="IPSMadhurVerma" label="IPSMadhurVerma" />
+      <node id="kgahlot" label="kgahlot" />
+      <node id="VishalKOfficial" label="VishalKOfficial" />
+      <node id="FollowCII" label="FollowCII" />
+      <node id="AgriGoI" label="AgriGoI" />
+      <node id="ESPNcricinfo" label="ESPNcricinfo" />
+      <node id="RaviShastriOfc" label="RaviShastriOfc" />
+      <node id="god_mafia" label="god_mafia" />
+      <node id="tejasarcasm" label="tejasarcasm" />
+      <node id="AamAadmiParty" label="AamAadmiParty" />
+      <node id="AAPNews" label="AAPNews" />
+      <node id="AapKaGopalRai" label="AapKaGopalRai" />
+      <node id="msisodia" label="msisodia" />
+      <node id="3BXigE5PXT3PTTO" label="3BXigE5PXT3PTTO" />
+      <node id="DassRavinder2" label="DassRavinder2" />
+      <node id="mssirsa" label="mssirsa" />
+      <node id="DelhiDaredevils" label="DelhiDaredevils" />
+      <node id="WeAreTrivandrum" label="WeAreTrivandrum" />
+      <node id="TrivandrumIndia" label="TrivandrumIndia" />
+      <node id="smarttrivandrum" label="smarttrivandrum" />
+      <node id="shabstech" label="shabstech" />
+      <node id="ibtimes_india" label="ibtimes_india" />
+      <node id="BJP4Delhi" label="BJP4Delhi" />
+      <node id="manukumarjain" label="manukumarjain" />
+      <node id="XiaomiIndia" label="XiaomiIndia" />
+      <node id="BGRIndia" label="BGRIndia" />
+      <node id="nashpd" label="nashpd" />
+      <node id="KherajDas" label="KherajDas" />
+      <node id="rashtrapatibhvn" label="rashtrapatibhvn" />
+      <node id="ICC" label="ICC" />
+      <node id="Sudathchamin" label="Sudathchamin" />
+      <node id="Paras_SEO" label="Paras_SEO" />
+      <node id="HNLSYSTEMS" label="HNLSYSTEMS" />
+      <node id="ArulAchela" label="ArulAchela" />
+      <node id="krishoffl" label="krishoffl" />
+      <node id="firstpost" label="firstpost" />
+      <node id="UNICEF" label="UNICEF" />
+      <node id="Alexwhi" label="Alexwhi" />
+      <node id="harjeet11" label="harjeet11" />
+      <node id="misskaul" label="misskaul" />
+      <node id="udayfoundation" label="udayfoundation" />
+      <node id="sucheritak" label="sucheritak" />
+      <node id="radiocityindia" label="radiocityindia" />
+      <node id="GINNIEMAHAJAN" label="GINNIEMAHAJAN" />
+      <node id="ashutosh83B" label="ashutosh83B" />
+      <node id="CharithaRajaka1" label="CharithaRajaka1" />
+      <node id="Satyam_raj1" label="Satyam_raj1" />
+      <node id="shiyam160" label="shiyam160" />
+      <node id="NewsWorldIN" label="NewsWorldIN" />
+      <node id="DasManmohan3" label="DasManmohan3" />
+      <node id="nibandh" label="nibandh" />
+      <node id="daniel86cricket" label="daniel86cricket" />
+      <node id="alilillah" label="alilillah" />
+      <node id="being2jitendra" label="being2jitendra" />
+      <node id="OfficeOfRG" label="OfficeOfRG" />
+      <node id="tcrpindia" label="tcrpindia" />
+      <node id="ClimateReality" label="ClimateReality" />
+      <node id="UNDPClimate" label="UNDPClimate" />
+      <node id="ClimateProject" label="ClimateProject" />
+      <node id="WorldBankIndia" label="WorldBankIndia" />
+      <node id="DelhiDynamos" label="DelhiDynamos" />
+      <node id="JamshedpurFC" label="JamshedpurFC" />
+      <node id="IndSuperLeague" label="IndSuperLeague" />
+      <node id="HTSportsNews" label="HTSportsNews" />
+      <node id="thetoonguy" label="thetoonguy" />
+      <node id="Ink_BL" label="Ink_BL" />
+      <node id="ayshvaryaSwarna" label="ayshvaryaSwarna" />
+      <node id="milindC2405" label="milindC2405" />
+      <node id="hindujagrutiorg" label="hindujagrutiorg" />
+      <node id="Milind_MMD" label="Milind_MMD" />
+      <node id="toisports" label="toisports" />
+      <node id="ashwinravi99" label="ashwinravi99" />
+      <node id="SriniMama16" label="SriniMama16" />
+      <node id="htTweets" label="htTweets" />
+      <node id="sachin_rt" label="sachin_rt" />
+      <node id="Lazyfe1l0w" label="Lazyfe1l0w" />
+      <node id="amitabhishek" label="amitabhishek" />
+      <node id="KhabarNwi" label="KhabarNwi" />
+      <node id="sharujan4" label="sharujan4" />
+      <node id="SLCricketLive" label="SLCricketLive" />
+      <node id="erin_klassen" label="erin_klassen" />
+      <node id="ziyatong" label="ziyatong" />
+      <node id="Brikesh" label="Brikesh" />
+      <node id="Jhatkaa" label="Jhatkaa" />
+      <node id="DelhiBreathe" label="DelhiBreathe" />
+      <node id="greenpeaceindia" label="greenpeaceindia" />
+      <node id="plalor" label="plalor" />
+      <node id="BJPLive" label="BJPLive" />
+      <node id="thushy03" label="thushy03" />
+      <node id="nitintotewarMT" label="nitintotewarMT" />
+      <node id="mataonline" label="mataonline" />
+      <node id="archanavijaya" label="archanavijaya" />
+      <node id="KanchanBhatta11" label="KanchanBhatta11" />
+      <node id="dtptraffic" label="dtptraffic" />
+      <node id="slcricketclub" label="slcricketclub" />
+      <node id="ArjunaRanatunga" label="ArjunaRanatunga" />
+      <node id="Gupta_vijender" label="Gupta_vijender" />
+      <node id="bobbytalkcinema" label="bobbytalkcinema" />
+      <node id="Uber_Support" label="Uber_Support" />
+      <node id="Uber" label="Uber" />
+      <node id="one_by_two" label="one_by_two" />
+      <node id="THEOCEANKING" label="THEOCEANKING" />
+      <node id="girirajsinghbjp" label="girirajsinghbjp" />
+      <node id="akashbanerjee" label="akashbanerjee" />
+      <node id="banarsi_" label="banarsi_" />
+      <node id="capt_amarinder" label="capt_amarinder" />
+      <node id="DrKumarVishwas" label="DrKumarVishwas" />
+      <node id="scroll_in" label="scroll_in" />
+      <node id="Hemant554" label="Hemant554" />
+      <node id="AashishKhetan" label="AashishKhetan" />
+      <node id="UPGovt" label="UPGovt" />
+      <node id="MukerjeePolash" label="MukerjeePolash" />
+      <node id="Harvard" label="Harvard" />
+      <node id="HardeepSPuri" label="HardeepSPuri" />
+      <node id="MoHUA_India" label="MoHUA_India" />
+      <node id="Saurabh_MLAgk" label="Saurabh_MLAgk" />
+      <node id="MoHFW_INDIA" label="MoHFW_INDIA" />
+      <node id="mithleshdass5" label="mithleshdass5" />
+      <node id="bjp4ind" label="bjp4ind" />
+      <node id="flysrilankan" label="flysrilankan" />
+      <node id="dilipkpandey" label="dilipkpandey" />
+      <node id="KritiDr" label="KritiDr" />
+      <node id="sandymbbs" label="sandymbbs" />
+      <node id="Indiametdept" label="Indiametdept" />
+      <node id="balendushekhar9" label="balendushekhar9" />
+      <node id="electivenow" label="electivenow" />
+      <node id="_YogendraYadav" label="_YogendraYadav" />
+      <node id="pbhushan1" label="pbhushan1" />
+      <node id="jeelanikash" label="jeelanikash" />
+      <node id="ZeeBusiness" label="ZeeBusiness" />
+      <node id="DineshKrChauha" label="DineshKrChauha" />
+      <node id="PMO_India" label="PMO_India" />
+      <node id="WisdenIndia" label="WisdenIndia" />
+      <node id="shamyad" label="shamyad" />
+      <node id="Bhupi5443" label="Bhupi5443" />
+      <node id="mediacrooks" label="mediacrooks" />
+      <node id="Ram_Guha" label="Ram_Guha" />
+      <node id="DaaruBaazMehta" label="DaaruBaazMehta" />
+      <node id="imbaibhav_AM22" label="imbaibhav_AM22" />
+      <node id="ArmaanMalik22" label="ArmaanMalik22" />
+      <node id="AmaalMallik" label="AmaalMallik" />
+      <node id="BD192937012" label="BD192937012" />
+      <node id="RailMinIndia" label="RailMinIndia" />
+      <node id="ajinkyarahane88" label="ajinkyarahane88" />
+      <node id="cricketwallah" label="cricketwallah" />
+      <node id="RoshanCricket" label="RoshanCricket" />
+      <node id="UberINSupport" label="UberINSupport" />
+      <node id="AajGothi" label="AajGothi" />
+      <node id="BBC_HaveYourSay" label="BBC_HaveYourSay" />
+      <node id="DulanAsiri" label="DulanAsiri" />
+      <node id="SrilankanCrick" label="SrilankanCrick" />
+      <node id="Indiancrickteam" label="Indiancrickteam" />
+      <node id="MCDdelhi" label="MCDdelhi" />
+      <node id="sumzy27" label="sumzy27" />
+      <node id="jshetty007" label="jshetty007" />
+      <node id="Aasirricherd" label="Aasirricherd" />
+      <node id="jatinsapru" label="jatinsapru" />
+      <node id="ICCLive" label="ICCLive" />
+      <node id="antopraveen1" label="antopraveen1" />
+      <node id="Ad_shant" label="Ad_shant" />
+      <node id="AjiHaaan" label="AjiHaaan" />
+      <node id="Suhe759" label="Suhe759" />
+      <node id="LJodhpur" label="LJodhpur" />
+      <node id="HKrishann" label="HKrishann" />
+      <node id="amirkhan" label="amirkhan" />
+      <node id="iamluvtyagi" label="iamluvtyagi" />
+      <node id="CSIR_IND" label="CSIR_IND" />
+      <node id="ndmaindia" label="ndmaindia" />
+      <node id="CricketNDTV" label="CricketNDTV" />
+      <node id="Sports_NDTV" label="Sports_NDTV" />
+      <node id="abhishek9971" label="abhishek9971" />
+      <node id="Asli_Jacqueline" label="Asli_Jacqueline" />
+      <node id="om_mehta" label="om_mehta" />
+      <node id="cricketsrilanka" label="cricketsrilanka" />
+      <node id="thetilaksharma" label="thetilaksharma" />
+      <node id="inshorts" label="inshorts" />
+      <node id="jaya_kishoriji" label="jaya_kishoriji" />
+      <node id="KTRTRS" label="KTRTRS" />
+      <node id="Wriddhipops" label="Wriddhipops" />
+      <node id="KrunalvV" label="KrunalvV" />
+      <node id="sudarshan2215" label="sudarshan2215" />
+      <node id="anirban1970" label="anirban1970" />
+      <node id="gossipdatabase" label="gossipdatabase" />
+      <node id="PTI_News" label="PTI_News" />
+      <node id="meaninist" label="meaninist" />
+      <node id="news24tvchannel" label="news24tvchannel" />
+      <node id="manakgupta" label="manakgupta" />
+      <node id="GEAG_India" label="GEAG_India" />
+      <node id="ErikSolheim" label="ErikSolheim" />
+      <node id="UNEP" label="UNEP" />
+      <node id="sachkaaaina" label="sachkaaaina" />
+      <node id="BBCHindi" label="BBCHindi" />
+      <node id="goonereol" label="goonereol" />
+      <node id="cricketaakash" label="cricketaakash" />
+      <node id="bahuparbalinahi" label="bahuparbalinahi" />
+      <node id="Pontifex" label="Pontifex" />
+      <node id="amolbachhav_" label="amolbachhav_" />
+      <node id="worldexegete" label="worldexegete" />
+      <node id="KarthikJannu" label="KarthikJannu" />
+      <node id="fakingnews" label="fakingnews" />
+      <node id="hindifakingnews" label="hindifakingnews" />
+      <node id="DainikBhaskar" label="DainikBhaskar" />
+      <node id="kehkelunga12345" label="kehkelunga12345" />
+      <node id="ESPNIndia" label="ESPNIndia" />
+      <node id="Paytm" label="Paytm" />
+      <node id="batrakartikeya" label="batrakartikeya" />
+      <node id="sunitanar" label="sunitanar" />
+      <node id="bahardutt" label="bahardutt" />
+      <node id="Devvratmalav" label="Devvratmalav" />
+      <node id="YogendraMalav8" label="YogendraMalav8" />
+      <node id="BrokenCricket" label="BrokenCricket" />
+      <node id="ICCMediaComms" label="ICCMediaComms" />
+      <node id="DEArdeshir" label="DEArdeshir" />
+      <node id="bbctms" label="bbctms" />
+      <node id="abpnewshindi" label="abpnewshindi" />
+      <node id="ALL_IN_ONE_MAN" label="ALL_IN_ONE_MAN" />
+      <node id="coolfunnytshirt" label="coolfunnytshirt" />
+      <node id="RaveeenaAgg" label="RaveeenaAgg" />
+      <node id="TheUncorruptNH" label="TheUncorruptNH" />
+      <node id="ViratKohliFC" label="ViratKohliFC" />
+      <node id="msdhoni" label="msdhoni" />
+      <node id="jashan74033963" label="jashan74033963" />
+      <node id="KapilMishraAAP" label="KapilMishraAAP" />
+      <node id="rachit_g2" label="rachit_g2" />
+      <node id="i_upasana" label="i_upasana" />
+      <node id="nktrawat" label="nktrawat" />
+      <node id="ArmyOfMSDians" label="ArmyOfMSDians" />
+      <node id="I_mVKohli" label="I_mVKohli" />
+      <node id="cheteshwar1" label="cheteshwar1" />
+      <node id="OxfordWords" label="OxfordWords" />
+      <node id="gulu1959" label="gulu1959" />
+      <node id="markbutcher72" label="markbutcher72" />
+      <node id="gauravkalra75" label="gauravkalra75" />
+      <node id="rrsuresh" label="rrsuresh" />
+      <node id="rima_barua" label="rima_barua" />
+      <node id="dakshitha_dias" label="dakshitha_dias" />
+      <node id="govt_delhi" label="govt_delhi" />
+      <node id="isura" label="isura" />
+      <node id="leishembaa" label="leishembaa" />
+      <node id="ZeeNews" label="ZeeNews" />
+      <node id="i_manoj_" label="i_manoj_" />
+      <node id="Excricketr" label="Excricketr" />
+      <node id="dadhiwalababa" label="dadhiwalababa" />
+      <node id="ShrimantSakal" label="ShrimantSakal" />
+      <node id="eSakalUpdate" label="eSakalUpdate" />
+      <node id="nixxin" label="nixxin" />
+      <node id="DelhiAirOrg" label="DelhiAirOrg" />
+      <node id="Rulayega_Kya" label="Rulayega_Kya" />
+      <node id="bharat_h_gandhi" label="bharat_h_gandhi" />
+      <node id="ap_pune" label="ap_pune" />
+      <node id="R0SETINTED" label="R0SETINTED" />
+      <node id="shobha_kapoor" label="shobha_kapoor" />
+      <node id="NikitaSerrao" label="NikitaSerrao" />
+      <node id="Ghazal_AAT" label="Ghazal_AAT" />
+      <node id="rs_sesame" label="rs_sesame" />
+      <node id="ideatingenergy" label="ideatingenergy" />
+      <node id="MontekSinghPC" label="MontekSinghPC" />
+      <node id="dpradhanbjp" label="dpradhanbjp" />
+      <node id="PIB_India" label="PIB_India" />
+      <node id="SecretaryPerry" label="SecretaryPerry" />
+      <node id="nitin_gadkari" label="nitin_gadkari" />
+      <node id="TOICitiesNews" label="TOICitiesNews" />
+      <node id="AAgamjot" label="AAgamjot" />
+      <node id="TimesNow" label="TimesNow" />
+      <node id="BJPInNews" label="BJPInNews" />
+      <node id="VijayGoelBJP" label="VijayGoelBJP" />
+      <node id="klrahul11" label="klrahul11" />
+      <node id="BreathingDelhi" label="BreathingDelhi" />
+      <node id="Tehelka" label="Tehelka" />
+      <node id="PrannoyRoyNDTV" label="PrannoyRoyNDTV" />
+      <node id="BDUTT" label="BDUTT" />
+      <node id="ManushiChhillar" label="ManushiChhillar" />
+      <node id="aamir_khan" label="aamir_khan" />
+      <node id="AmitShah" label="AmitShah" />
+      <node id="anandmahindra" label="anandmahindra" />
+      <node id="azimpremjiunive" label="azimpremjiunive" />
+      <node id="kiranshaw" label="kiranshaw" />
+      <node id="parthaabosu" label="parthaabosu" />
+      <node id="ltd_india" label="ltd_india" />
+      <node id="TheTrueBhartiya" label="TheTrueBhartiya" />
+      <node id="JoblessJack" label="JoblessJack" />
+      <node id="poojamakhija" label="poojamakhija" />
+      <node id="CPPuneCity" label="CPPuneCity" />
+      <node id="PuneCityPolice" label="PuneCityPolice" />
+      <node id="DGPMaharashtra" label="DGPMaharashtra" />
+      <node id="MahaDGIPR" label="MahaDGIPR" />
+      <node id="punekarnews" label="punekarnews" />
+      <node id="punekar" label="punekar" />
+      <node id="Pune24x7" label="Pune24x7" />
+      <node id="punedaily" label="punedaily" />
+      <node id="PuneTimesOnline" label="PuneTimesOnline" />
+      <node id="nistula" label="nistula" />
+      <node id="JodhpurL" label="JodhpurL" />
+      <node id="IndiaSports" label="IndiaSports" />
+      <node id="YASMinistry" label="YASMinistry" />
+      <node id="IntoAbhi" label="IntoAbhi" />
+      <node id="Samsung_IN" label="Samsung_IN" />
+      <node id="Santosh0419" label="Santosh0419" />
+      <node id="ChSatbirSingh" label="ChSatbirSingh" />
+      <node id="INCDelhi" label="INCDelhi" />
+      <node id="Shalupcrf" label="Shalupcrf" />
+      <node id="ashkhann" label="ashkhann" />
+      <node id="AshiQuotes" label="AshiQuotes" />
+      <node id="anilbaijal" label="anilbaijal" />
+      <node id="ECB_cricket" label="ECB_cricket" />
+      <node id="ashish_tiwtter" label="ashish_tiwtter" />
+      <node id="myvotetoday" label="myvotetoday" />
+      <node id="AirPollSurrey" label="AirPollSurrey" />
+      <node id="iSCAPEproject" label="iSCAPEproject" />
+      <node id="Smartiesproject" label="Smartiesproject" />
+      <node id="ClairCity" label="ClairCity" />
+      <node id="pk_shishodia" label="pk_shishodia" />
+      <node id="wef" label="wef" />
+      <node id="Upganlawar" label="Upganlawar" />
+      <node id="abpnewstv" label="abpnewstv" />
+      <node id="TanuPandey2" label="TanuPandey2" />
+      <node id="obgynvidalluz4" label="obgynvidalluz4" />
+      <node id="SureshUmang" label="SureshUmang" />
+      <node id="DDNational" label="DDNational" />
+      <node id="BeboKitkat" label="BeboKitkat" />
+      <node id="ayeshasood" label="ayeshasood" />
+      <node id="MirrorNow" label="MirrorNow" />
+      <node id="anilvijminister" label="anilvijminister" />
+      <node id="DDNewsLive" label="DDNewsLive" />
+      <node id="amardeepkaushal" label="amardeepkaushal" />
+      <node id="AsYouNotWish" label="AsYouNotWish" />
+      <node id="SDhawan25" label="SDhawan25" />
+      <node id="GaonConnection" label="GaonConnection" />
+      <node id="VishnuNDTV" label="VishnuNDTV" />
+      <node id="jhasaurabh564" label="jhasaurabh564" />
+      <node id="NewsX" label="NewsX" />
+      <node id="ARVLoshan" label="ARVLoshan" />
+      <node id="anubratach" label="anubratach" />
+      <node id="AAP_Kerala" label="AAP_Kerala" />
+      <node id="padhalikha" label="padhalikha" />
+      <node id="SanjayKYadav24" label="SanjayKYadav24" />
+      <node id="Kidsstoppress" label="Kidsstoppress" />
+      <node id="sanchx" label="sanchx" />
+      <node id="UNICEFIndia" label="UNICEFIndia" />
+      <node id="CPDelhi" label="CPDelhi" />
+      <node id="pwddelhi" label="pwddelhi" />
+      <node id="AAPExpress" label="AAPExpress" />
+      <node id="cgtnafrica" label="cgtnafrica" />
+      <node id="ChamSumanapala" label="ChamSumanapala" />
+      <node id="DelhiPolice" label="DelhiPolice" />
+      <node id="Uppolice" label="Uppolice" />
+      <node id="DfsiKumar" label="DfsiKumar" />
+      <node id="MamataOfficial" label="MamataOfficial" />
+      <node id="Mpalawat" label="Mpalawat" />
+      <node id="HMolinValdes" label="HMolinValdes" />
+      <node id="vijayshekhar" label="vijayshekhar" />
+      <node id="CCACoalition" label="CCACoalition" />
+      <node id="Showbiz_IT" label="Showbiz_IT" />
+      <node id="aroonpurie" label="aroonpurie" />
+      <node id="p_ghildial" label="p_ghildial" />
+      <node id="sureshpprabhu" label="sureshpprabhu" />
+      <node id="NameFieldmt" label="NameFieldmt" />
+      <node id="ShashiTharoor" label="ShashiTharoor" />
+      <node id="AzzamAmeen" label="AzzamAmeen" />
+      <node id="UNFCCC" label="UNFCCC" />
+      <node id="delhipollution" label="delhipollution" />
+      <node id="vikrantgupta73" label="vikrantgupta73" />
+      <node id="drrajatchauhan" label="drrajatchauhan" />
+      <node id="ashutosh_83B" label="ashutosh_83B" />
+      <node id="iocmedia" label="iocmedia" />
+      <node id="ITGDsports" label="ITGDsports" />
+      <node id="ChetanKammar" label="ChetanKammar" />
+      <node id="realGovindS" label="realGovindS" />
+      <node id="mfuloria" label="mfuloria" />
+      <node id="MunCorpGurugram" label="MunCorpGurugram" />
+      <node id="SK171999" label="SK171999" />
+      <node id="grantelliottnz" label="grantelliottnz" />
+      <node id="OfficialSLCB" label="OfficialSLCB" />
+      <node id="amitbhatt4u" label="amitbhatt4u" />
+      <node id="ajaymaken" label="ajaymaken" />
+      <node id="WSJ" label="WSJ" />
+      <node id="RidgeOnSunday" label="RidgeOnSunday" />
+      <node id="Number10gov" label="Number10gov" />
+      <node id="pmo" label="pmo" />
+      <node id="MANJULtoons" label="MANJULtoons" />
+      <node id="talktosanjai" label="talktosanjai" />
+      <node id="vikantsahay" label="vikantsahay" />
+      <node id="prasol" label="prasol" />
+      <node id="YouTube" label="YouTube" />
+      <node id="NitishKumar" label="NitishKumar" />
+      <node id="SushilModi" label="SushilModi" />
+      <node id="mangalpandeybjp" label="mangalpandeybjp" />
+      <node id="Rajeshkumar2974" label="Rajeshkumar2974" />
+      <node id="YasheshYadav" label="YasheshYadav" />
+      <node id="ApiWenuwen" label="ApiWenuwen" />
+      <node id="PollutedIndians" label="PollutedIndians" />
+      <node id="MaheshNBhatt" label="MaheshNBhatt" />
+      <node id="APFitoutfinance" label="APFitoutfinance" />
+      <node id="SkySports" label="SkySports" />
+      <node id="GalliGalliSim" label="GalliGalliSim" />
+      <node id="SesameChamki" label="SesameChamki" />
+      <node id="PSamratSakal" label="PSamratSakal" />
+      <node id="SatishKTM" label="SatishKTM" />
+      <node id="SriLanka" label="SriLanka" />
+      <node id="dkinwild" label="dkinwild" />
+      <node id="ev_hs" label="ev_hs" />
+      <node id="WRICitiesIndia" label="WRICitiesIndia" />
+      <node id="AnjaliMody1" label="AnjaliMody1" />
+      <node id="tweetndmc" label="tweetndmc" />
+      <node id="MailOnline" label="MailOnline" />
+      <node id="TheOEDP" label="TheOEDP" />
+      <node id="Open_AQ" label="Open_AQ" />
+      <node id="down2earthindia" label="down2earthindia" />
+      <node id="SMEAatUW" label="SMEAatUW" />
+      <node id="washingtonpost" label="washingtonpost" />
+      <node id="shivuvivek" label="shivuvivek" />
+      <node id="Acutereply" label="Acutereply" />
+      <node id="Gpinnks" label="Gpinnks" />
+      <node id="an_a_nd" label="an_a_nd" />
+      <node id="manoj23oct" label="manoj23oct" />
+      <node id="imsanjaimishra" label="imsanjaimishra" />
+      <node id="GargiRawat" label="GargiRawat" />
+      <node id="RidlrDEL" label="RidlrDEL" />
+      <node id="ChennaiTimesTOI" label="ChennaiTimesTOI" />
+      <node id="indiaopendata" label="indiaopendata" />
+      <node id="IndianExpress" label="IndianExpress" />
+      <node id="YasminKidwai" label="YasminKidwai" />
+      <node id="ProfCong" label="ProfCong" />
+      <node id="ProfCongDelhi" label="ProfCongDelhi" />
+      <node id="ShekharGupta" label="ShekharGupta" />
+      <node id="sanjayuvacha" label="sanjayuvacha" />
+      <node id="Mal_Malika" label="Mal_Malika" />
+      <node id="kaulnishu87" label="kaulnishu87" />
+      <node id="SmokeyBot" label="SmokeyBot" />
+      <node id="annoyed_being" label="annoyed_being" />
+      <node id="RTiwari_HH" label="RTiwari_HH" />
+      <node id="virendr_sehwag" label="virendr_sehwag" />
+      <node id="PaytmBank" label="PaytmBank" />
+      <node id="AjayAgrSFDC" label="AjayAgrSFDC" />
+    </nodes>
+    <edges>
+      <edge id="0" source="_garrywalia" target="ArvindKejriwal" weight="682.0" />
+      <edge id="1" source="ArvindKejriwal" target="IndianKimJongUn" weight="2.0" />
+      <edge id="2" source="ArvindKejriwal" target="pkgurgaon" weight="62.0" />
+      <edge id="3" source="ArvindKejriwal" target="mlkhattar" weight="67.0" />
+      <edge id="4" source="ArvindKejriwal" target="HighBPNews" weight="2.0" />
+      <edge id="5" source="ArvindKejriwal" target="thecyberbully13" weight="2.0" />
+      <edge id="6" source="ArvindKejriwal" target="aloknath" weight="2.0" />
+      <edge id="7" source="ArvindKejriwal" target="timesofindia" weight="1.0" />
+      <edge id="8" source="ArvindKejriwal" target="stspring" weight="1.0" />
+      <edge id="9" source="ArvindKejriwal" target="BeingSalmanKhan" weight="1.0" />
+      <edge id="10" source="ArvindKejriwal" target="sardesairajdeep" weight="3.0" />
+      <edge id="11" source="ArvindKejriwal" target="mma1982fortis" weight="1.0" />
+      <edge id="12" source="ArvindKejriwal" target="Bhupenpunia" weight="1.0" />
+      <edge id="13" source="ArvindKejriwal" target="UrbanDeptDelhi" weight="1.0" />
+      <edge id="14" source="ArvindKejriwal" target="PMOIndia" weight="26.0" />
+      <edge id="15" source="ArvindKejriwal" target="moefcc" weight="4.0" />
+      <edge id="16" source="ArvindKejriwal" target="vip_lokesh" weight="2.0" />
+      <edge id="17" source="ArvindKejriwal" target="narendramodi" weight="24.0" />
+      <edge id="18" source="ArvindKejriwal" target="KapilMishra_IND" weight="5.0" />
+      <edge id="19" source="ArvindKejriwal" target="rajnathsingh" weight="7.0" />
+      <edge id="20" source="ArvindKejriwal" target="mratnesh23" weight="1.0" />
+      <edge id="21" source="ArvindKejriwal" target="SirJadeja" weight="2.0" />
+      <edge id="22" source="ArvindKejriwal" target="OfficialSLC" weight="3.0" />
+      <edge id="23" source="ArvindKejriwal" target="drharshvardhan" weight="13.0" />
+      <edge id="24" source="ArvindKejriwal" target="rupeshsharma02" weight="1.0" />
+      <edge id="25" source="ArvindKejriwal" target="ManojTiwariMP" weight="4.0" />
+      <edge id="26" source="ArvindKejriwal" target="BCCI" weight="15.0" />
+      <edge id="27" source="ArvindKejriwal" target="JPNadda" weight="2.0" />
+      <edge id="28" source="ArvindKejriwal" target="SatyendarJain" weight="7.0" />
+      <edge id="29" source="ArvindKejriwal" target="chauhanshubhang" weight="2.0" />
+      <edge id="30" source="ArvindKejriwal" target="aajtak" weight="4.0" />
+      <edge id="31" source="ArvindKejriwal" target="ndtv" weight="4.0" />
+      <edge id="32" source="ArvindKejriwal" target="VishalKOfficial" weight="3.0" />
+      <edge id="33" source="ArvindKejriwal" target="AamAadmiParty" weight="22.0" />
+      <edge id="34" source="ArvindKejriwal" target="AAPNews" weight="2.0" />
+      <edge id="35" source="ArvindKejriwal" target="AapKaGopalRai" weight="2.0" />
+      <edge id="36" source="ArvindKejriwal" target="msisodia" weight="13.0" />
+      <edge id="37" source="ArvindKejriwal" target="mssirsa" weight="107.0" />
+      <edge id="38" source="ArvindKejriwal" target="being2jitendra" weight="2.0" />
+      <edge id="39" source="ArvindKejriwal" target="OfficeOfRG" weight="19.0" />
+      <edge id="40" source="ArvindKejriwal" target="MdShami11" weight="3.0" />
+      <edge id="41" source="ArvindKejriwal" target="ayshvaryaSwarna" weight="2.0" />
+      <edge id="42" source="ArvindKejriwal" target="ICC" weight="3.0" />
+      <edge id="43" source="ArvindKejriwal" target="Brikesh" weight="1.0" />
+      <edge id="44" source="ArvindKejriwal" target="Jhatkaa" weight="1.0" />
+      <edge id="45" source="ArvindKejriwal" target="DelhiBreathe" weight="1.0" />
+      <edge id="46" source="ArvindKejriwal" target="greenpeaceindia" weight="1.0" />
+      <edge id="47" source="ArvindKejriwal" target="imVkohli" weight="3.0" />
+      <edge id="48" source="ArvindKejriwal" target="archanavijaya" weight="1.0" />
+      <edge id="49" source="ArvindKejriwal" target="Gupta_vijender" weight="1.0" />
+      <edge id="50" source="ArvindKejriwal" target="LtGovDelhi" weight="12.0" />
+      <edge id="51" source="ArvindKejriwal" target="akashbanerjee" weight="1.0" />
+      <edge id="52" source="ArvindKejriwal" target="banarsi_" weight="4.0" />
+      <edge id="53" source="ArvindKejriwal" target="capt_amarinder" weight="3.0" />
+      <edge id="54" source="ArvindKejriwal" target="DrKumarVishwas" weight="1.0" />
+      <edge id="55" source="ArvindKejriwal" target="Hemant554" weight="1.0" />
+      <edge id="56" source="ArvindKejriwal" target="AashishKhetan" weight="5.0" />
+      <edge id="57" source="ArvindKejriwal" target="UPGovt" weight="4.0" />
+      <edge id="58" source="ArvindKejriwal" target="cmohry" weight="5.0" />
+      <edge id="59" source="ArvindKejriwal" target="HardeepSPuri" weight="1.0" />
+      <edge id="60" source="ArvindKejriwal" target="MoHUA_India" weight="1.0" />
+      <edge id="61" source="ArvindKejriwal" target="Saurabh_MLAgk" weight="1.0" />
+      <edge id="62" source="ArvindKejriwal" target="MoHFW_INDIA" weight="2.0" />
+      <edge id="63" source="ArvindKejriwal" target="bjp4ind" weight="1.0" />
+      <edge id="64" source="ArvindKejriwal" target="DineshKrChauha" weight="3.0" />
+      <edge id="65" source="ArvindKejriwal" target="PMO_India" weight="3.0" />
+      <edge id="66" source="ArvindKejriwal" target="DaaruBaazMehta" weight="1.0" />
+      <edge id="67" source="ArvindKejriwal" target="MCDdelhi" weight="1.0" />
+      <edge id="68" source="ArvindKejriwal" target="Ad_shant" weight="1.0" />
+      <edge id="69" source="ArvindKejriwal" target="CSIR_IND" weight="1.0" />
+      <edge id="70" source="ArvindKejriwal" target="ndmaindia" weight="1.0" />
+      <edge id="71" source="ArvindKejriwal" target="AAPDelhi" weight="3.0" />
+      <edge id="72" source="ArvindKejriwal" target="gossipdatabase" weight="1.0" />
+      <edge id="73" source="ArvindKejriwal" target="PTI_News" weight="1.0" />
+      <edge id="74" source="ArvindKejriwal" target="htTweets" weight="1.0" />
+      <edge id="75" source="ArvindKejriwal" target="goonereol" weight="4.0" />
+      <edge id="76" source="ArvindKejriwal" target="cricketsrilanka" weight="1.0" />
+      <edge id="77" source="ArvindKejriwal" target="batrakartikeya" weight="2.0" />
+      <edge id="78" source="ArvindKejriwal" target="sunitanar" weight="3.0" />
+      <edge id="79" source="ArvindKejriwal" target="bahardutt" weight="3.0" />
+      <edge id="80" source="ArvindKejriwal" target="BJP4India" weight="1.0" />
+      <edge id="81" source="ArvindKejriwal" target="abpnewshindi" weight="1.0" />
+      <edge id="82" source="ArvindKejriwal" target="jashan74033963" weight="1.0" />
+      <edge id="83" source="ArvindKejriwal" target="KapilMishraAAP" weight="4.0" />
+      <edge id="84" source="ArvindKejriwal" target="i_upasana" weight="4.0" />
+      <edge id="85" source="ArvindKejriwal" target="govt_delhi" weight="1.0" />
+      <edge id="86" source="ArvindKejriwal" target="ZeeNews" weight="1.0" />
+      <edge id="87" source="ArvindKejriwal" target="i_manoj_" weight="1.0" />
+      <edge id="88" source="ArvindKejriwal" target="nixxin" weight="1.0" />
+      <edge id="89" source="ArvindKejriwal" target="cricketaakash" weight="1.0" />
+      <edge id="90" source="ArvindKejriwal" target="Rulayega_Kya" weight="1.0" />
+      <edge id="91" source="ArvindKejriwal" target="nitin_gadkari" weight="3.0" />
+      <edge id="92" source="ArvindKejriwal" target="BreathingDelhi" weight="1.0" />
+      <edge id="93" source="ArvindKejriwal" target="KhabarNwi" weight="2.0" />
+      <edge id="94" source="ArvindKejriwal" target="Shalupcrf" weight="1.0" />
+      <edge id="95" source="ArvindKejriwal" target="anilbaijal" weight="1.0" />
+      <edge id="96" source="ArvindKejriwal" target="ashish_tiwtter" weight="2.0" />
+      <edge id="97" source="ArvindKejriwal" target="ayeshasood" weight="1.0" />
+      <edge id="98" source="ArvindKejriwal" target="GaonConnection" weight="1.0" />
+      <edge id="99" source="ArvindKejriwal" target="NewsX" weight="4.0" />
+      <edge id="100" source="ArvindKejriwal" target="anubratach" weight="2.0" />
+      <edge id="101" source="ArvindKejriwal" target="AAP_Kerala" weight="1.0" />
+      <edge id="102" source="ArvindKejriwal" target="padhalikha" weight="1.0" />
+      <edge id="103" source="ArvindKejriwal" target="SanjayKYadav24" weight="1.0" />
+      <edge id="104" source="ArvindKejriwal" target="CPDelhi" weight="1.0" />
+      <edge id="105" source="ArvindKejriwal" target="pwddelhi" weight="1.0" />
+      <edge id="106" source="ArvindKejriwal" target="AAPExpress" weight="1.0" />
+      <edge id="107" source="ArvindKejriwal" target="ChamSumanapala" weight="1.0" />
+      <edge id="108" source="ArvindKejriwal" target="myogiadityanath" weight="4.0" />
+      <edge id="109" source="ArvindKejriwal" target="DelhiPolice" weight="3.0" />
+      <edge id="110" source="ArvindKejriwal" target="Uppolice" weight="3.0" />
+      <edge id="111" source="ArvindKejriwal" target="DfsiKumar" weight="2.0" />
+      <edge id="112" source="ArvindKejriwal" target="HMOIndia" weight="1.0" />
+      <edge id="113" source="ArvindKejriwal" target="mfuloria" weight="1.0" />
+      <edge id="114" source="ArvindKejriwal" target="MunCorpGurugram" weight="1.0" />
+      <edge id="115" source="ArvindKejriwal" target="vikantsahay" weight="1.0" />
+      <edge id="116" source="ArvindKejriwal" target="PollutedIndians" weight="1.0" />
+      <edge id="117" source="ArvindKejriwal" target="MaheshNBhatt" weight="1.0" />
+      <edge id="118" source="ArvindKejriwal" target="StarSportsIndia" weight="1.0" />
+      <edge id="119" source="ArvindKejriwal" target="ev_hs" weight="4.0" />
+      <edge id="120" source="ArvindKejriwal" target="ShekharGupta" weight="1.0" />
+      <edge id="121" source="ArvindKejriwal" target="sanjayuvacha" weight="1.0" />
+      <edge id="122" source="ArvindKejriwal" target="AjayAgrSFDC" weight="1.0" />
+      <edge id="123" source="NVJRobins1" target="RI_News_Alert" weight="1.0" />
+      <edge id="124" source="NVJRobins1" target="SadiqKhan" weight="1.0" />
+      <edge id="125" source="NVJRobins1" target="NewWeatherInst" weight="1.0" />
+      <edge id="126" source="NVJRobins1" target="AndrewSimms_uk" weight="1.0" />
+      <edge id="127" source="NVJRobins1" target="davidboyle1958" weight="1.0" />
+      <edge id="128" source="RI_News_Alert" target="SadiqKhan" weight="1.0" />
+      <edge id="129" source="RI_News_Alert" target="NewWeatherInst" weight="1.0" />
+      <edge id="130" source="RI_News_Alert" target="AndrewSimms_uk" weight="1.0" />
+      <edge id="131" source="RI_News_Alert" target="davidboyle1958" weight="1.0" />
+      <edge id="132" source="SadiqKhan" target="NewWeatherInst" weight="1.0" />
+      <edge id="133" source="SadiqKhan" target="AndrewSimms_uk" weight="1.0" />
+      <edge id="134" source="SadiqKhan" target="davidboyle1958" weight="1.0" />
+      <edge id="135" source="SadiqKhan" target="p_ghildial" weight="1.0" />
+      <edge id="136" source="SadiqKhan" target="sureshpprabhu" weight="1.0" />
+      <edge id="137" source="NewWeatherInst" target="AndrewSimms_uk" weight="1.0" />
+      <edge id="138" source="NewWeatherInst" target="davidboyle1958" weight="1.0" />
+      <edge id="139" source="AndrewSimms_uk" target="davidboyle1958" weight="1.0" />
+      <edge id="140" source="GetZilient" target="MickSTaylor" weight="4.0" />
+      <edge id="141" source="MickSTaylor" target="TR_Foundation" weight="2.0" />
+      <edge id="142" source="BCCI" target="OfficialSLC" weight="10.0" />
+      <edge id="143" source="BCCI" target="The_Nation" weight="1.0" />
+      <edge id="144" source="BCCI" target="clutchplay" weight="2.0" />
+      <edge id="145" source="BCCI" target="imVkohli" weight="14.0" />
+      <edge id="146" source="BCCI" target="MdShami11" weight="4.0" />
+      <edge id="147" source="BCCI" target="SirJadeja" weight="1.0" />
+      <edge id="148" source="BCCI" target="Dailymirror_SL" weight="1.0" />
+      <edge id="149" source="BCCI" target="virendersehwag" weight="10.0" />
+      <edge id="150" source="BCCI" target="aajtak" weight="2.0" />
+      <edge id="151" source="BCCI" target="RjPuneet" weight="1.0" />
+      <edge id="152" source="BCCI" target="anussaeed1" weight="1.0" />
+      <edge id="153" source="BCCI" target="PMOIndia" weight="3.0" />
+      <edge id="154" source="BCCI" target="JPNadda" weight="1.0" />
+      <edge id="155" source="BCCI" target="SatyendarJain" weight="1.0" />
+      <edge id="156" source="BCCI" target="ndtv" weight="1.0" />
+      <edge id="157" source="BCCI" target="ESPNcricinfo" weight="2.0" />
+      <edge id="158" source="BCCI" target="RaviShastriOfc" weight="2.0" />
+      <edge id="159" source="BCCI" target="shiyam160" weight="1.0" />
+      <edge id="160" source="BCCI" target="RusselArnold69" weight="1.0" />
+      <edge id="161" source="BCCI" target="ashwinravi99" weight="1.0" />
+      <edge id="162" source="BCCI" target="SriniMama16" weight="1.0" />
+      <edge id="163" source="BCCI" target="ICC" weight="9.0" />
+      <edge id="164" source="BCCI" target="amitabhishek" weight="1.0" />
+      <edge id="165" source="BCCI" target="plalor" weight="1.0" />
+      <edge id="166" source="BCCI" target="slcricketclub" weight="1.0" />
+      <edge id="167" source="BCCI" target="KumarSanga2" weight="1.0" />
+      <edge id="168" source="BCCI" target="ArjunaRanatunga" weight="1.0" />
+      <edge id="169" source="BCCI" target="narendramodi" weight="3.0" />
+      <edge id="170" source="BCCI" target="IPL" weight="1.0" />
+      <edge id="171" source="BCCI" target="flysrilankan" weight="1.0" />
+      <edge id="172" source="BCCI" target="StarSportsIndia" weight="5.0" />
+      <edge id="173" source="BCCI" target="BeingSalmanKhan" weight="2.0" />
+      <edge id="174" source="BCCI" target="jatinsapru" weight="2.0" />
+      <edge id="175" source="BCCI" target="jaya_kishoriji" weight="1.0" />
+      <edge id="176" source="BCCI" target="cricbuzz" weight="2.0" />
+      <edge id="177" source="BCCI" target="bhogleharsha" weight="2.0" />
+      <edge id="178" source="BCCI" target="PTI_News" weight="1.0" />
+      <edge id="179" source="BCCI" target="htTweets" weight="1.0" />
+      <edge id="180" source="BCCI" target="cricketsrilanka" weight="3.0" />
+      <edge id="181" source="BCCI" target="Paytm" weight="1.0" />
+      <edge id="182" source="BCCI" target="BrokenCricket" weight="1.0" />
+      <edge id="183" source="BCCI" target="ICCMediaComms" weight="1.0" />
+      <edge id="184" source="BCCI" target="cricketaakash" weight="2.0" />
+      <edge id="185" source="BCCI" target="TheUncorruptNH" weight="1.0" />
+      <edge id="186" source="BCCI" target="msdhoni" weight="1.0" />
+      <edge id="187" source="BCCI" target="rrsuresh" weight="1.0" />
+      <edge id="188" source="BCCI" target="AamAadmiParty" weight="2.0" />
+      <edge id="189" source="BCCI" target="dakshitha_dias" weight="1.0" />
+      <edge id="190" source="BCCI" target="govt_delhi" weight="1.0" />
+      <edge id="191" source="BCCI" target="Excricketr" weight="1.0" />
+      <edge id="192" source="BCCI" target="dadhiwalababa" weight="1.0" />
+      <edge id="193" source="BCCI" target="myvotetoday" weight="1.0" />
+      <edge id="194" source="BCCI" target="HTSportsNews" weight="1.0" />
+      <edge id="195" source="BCCI" target="GaonConnection" weight="1.0" />
+      <edge id="196" source="BCCI" target="cgtnafrica" weight="1.0" />
+      <edge id="197" source="BCCI" target="leishembaa" weight="1.0" />
+      <edge id="198" source="BCCI" target="grantelliottnz" weight="1.0" />
+      <edge id="199" source="BCCI" target="OfficialSLCB" weight="1.0" />
+      <edge id="200" source="BCCI" target="IndSuperLeague" weight="1.0" />
+      <edge id="201" source="BCCI" target="YasheshYadav" weight="4.0" />
+      <edge id="202" source="BCCI" target="moefcc" weight="4.0" />
+      <edge id="203" source="BCCI" target="SriLanka" weight="1.0" />
+      <edge id="204" source="BCCI" target="virendr_sehwag" weight="1.0" />
+      <edge id="205" source="OfficialSLC" target="ZeeNewsHindi" weight="11.0" />
+      <edge id="206" source="OfficialSLC" target="Dailymirror_SL" weight="1.0" />
+      <edge id="207" source="OfficialSLC" target="virendersehwag" weight="3.0" />
+      <edge id="208" source="OfficialSLC" target="imVkohli" weight="7.0" />
+      <edge id="209" source="OfficialSLC" target="anussaeed1" weight="1.0" />
+      <edge id="210" source="OfficialSLC" target="SirJadeja" weight="2.0" />
+      <edge id="211" source="OfficialSLC" target="ICC" weight="2.0" />
+      <edge id="212" source="OfficialSLC" target="nibandh" weight="1.0" />
+      <edge id="213" source="OfficialSLC" target="daniel86cricket" weight="2.0" />
+      <edge id="214" source="OfficialSLC" target="ajinkyarahane88" weight="2.0" />
+      <edge id="215" source="OfficialSLC" target="rahulkanwal" weight="2.0" />
+      <edge id="216" source="OfficialSLC" target="cricketwallah" weight="2.0" />
+      <edge id="217" source="OfficialSLC" target="RusselArnold69" weight="2.0" />
+      <edge id="218" source="OfficialSLC" target="RoshanCricket" weight="2.0" />
+      <edge id="219" source="OfficialSLC" target="KhabarNwi" weight="6.0" />
+      <edge id="220" source="OfficialSLC" target="meaninist" weight="2.0" />
+      <edge id="221" source="OfficialSLC" target="OxfordWords" weight="1.0" />
+      <edge id="222" source="OfficialSLC" target="rima_barua" weight="1.0" />
+      <edge id="223" source="OfficialSLC" target="sachin_rt" weight="2.0" />
+      <edge id="224" source="OfficialSLC" target="isura" weight="1.0" />
+      <edge id="225" source="OfficialSLC" target="ashwinravi99" weight="1.0" />
+      <edge id="226" source="OfficialSLC" target="ECB_cricket" weight="1.0" />
+      <edge id="227" source="OfficialSLC" target="jhasaurabh564" weight="1.0" />
+      <edge id="228" source="OfficialSLC" target="KumarSanga2" weight="1.0" />
+      <edge id="229" source="OfficialSLC" target="AzzamAmeen" weight="1.0" />
+      <edge id="230" source="OfficialSLC" target="SK171999" weight="1.0" />
+      <edge id="231" source="OfficialSLC" target="narendramodi" weight="1.0" />
+      <edge id="232" source="OfficialSLC" target="ApiWenuwen" weight="1.0" />
+      <edge id="233" source="OfficialSLC" target="MamataOfficial" weight="1.0" />
+      <edge id="234" source="fabianloehe" target="FAHarms" weight="1.0" />
+      <edge id="235" source="fabianloehe" target="EU_Commission" weight="1.0" />
+      <edge id="236" source="FAHarms" target="EU_Commission" weight="2.0" />
+      <edge id="237" source="ClientEarth_PL" target="k_bolesta" weight="2.0" />
+      <edge id="238" source="k_bolesta" target="Piotr_Stepinski" weight="1.0" />
+      <edge id="239" source="k_bolesta" target="EUinPL" weight="2.0" />
+      <edge id="240" source="k_bolesta" target="warszawa" weight="2.0" />
+      <edge id="241" source="k_bolesta" target="PolitykaInsight" weight="2.0" />
+      <edge id="242" source="Ravinda52329737" target="VarshaDasi" weight="21.0" />
+      <edge id="243" source="Ravinda52329737" target="kyayaar123" weight="78.0" />
+      <edge id="244" source="Ravinda52329737" target="SaritaC66829865" weight="24.0" />
+      <edge id="245" source="Ravinda52329737" target="BagatManmohan" weight="55.0" />
+      <edge id="246" source="Ravinda52329737" target="GodGiftLife0" weight="2.0" />
+      <edge id="247" source="VarshaDasi" target="kyayaar123" weight="21.0" />
+      <edge id="248" source="kyayaar123" target="SaritaC66829865" weight="24.0" />
+      <edge id="249" source="kyayaar123" target="BagatManmohan" weight="55.0" />
+      <edge id="250" source="kyayaar123" target="GodGiftLife0" weight="2.0" />
+      <edge id="251" source="Ewa_Bxl" target="MAC_europa" weight="2.0" />
+      <edge id="252" source="MAC_europa" target="EUinPL" weight="2.0" />
+      <edge id="253" source="MAC_europa" target="PolitykaInsight" weight="1.0" />
+      <edge id="254" source="MAC_europa" target="warszawa" weight="1.0" />
+      <edge id="255" source="PremierRP" target="BeataSzydlo" weight="1.0" />
+      <edge id="256" source="Piotr_Stepinski" target="EUinPL" weight="1.0" />
+      <edge id="257" source="Piotr_Stepinski" target="warszawa" weight="1.0" />
+      <edge id="258" source="Piotr_Stepinski" target="PolitykaInsight" weight="1.0" />
+      <edge id="259" source="EUinPL" target="warszawa" weight="3.0" />
+      <edge id="260" source="EUinPL" target="PolitykaInsight" weight="6.0" />
+      <edge id="261" source="EUinPL" target="EDRzeszow" weight="3.0" />
+      <edge id="262" source="EUinPL" target="EBienkowskaEU" weight="3.0" />
+      <edge id="263" source="EUinPL" target="Smogathon" weight="3.0" />
+      <edge id="264" source="warszawa" target="PolitykaInsight" weight="3.0" />
+      <edge id="265" source="warszawa" target="alarm_smogowy" weight="1.0" />
+      <edge id="266" source="warszawa" target="molszew77" weight="1.0" />
+      <edge id="267" source="PolitykaInsight" target="EDRzeszow" weight="3.0" />
+      <edge id="268" source="pkgurgaon" target="mlkhattar" weight="62.0" />
+      <edge id="269" source="mlkhattar" target="cmohry" weight="1.0" />
+      <edge id="270" source="mlkhattar" target="moefcc" weight="1.0" />
+      <edge id="271" source="mlkhattar" target="drharshvardhan" weight="1.0" />
+      <edge id="272" source="mlkhattar" target="RSSorg" weight="1.0" />
+      <edge id="273" source="mlkhattar" target="smartcityfbd" weight="1.0" />
+      <edge id="274" source="mlkhattar" target="MSJEGOI" weight="1.0" />
+      <edge id="275" source="mlkhattar" target="SwachhBharatGov" weight="1.0" />
+      <edge id="276" source="mlkhattar" target="narendramodi" weight="2.0" />
+      <edge id="277" source="mlkhattar" target="PMOIndia" weight="3.0" />
+      <edge id="278" source="mlkhattar" target="rajnathsingh" weight="1.0" />
+      <edge id="279" source="mlkhattar" target="mukesh_Vashisth" weight="1.0" />
+      <edge id="280" source="mlkhattar" target="capt_amarinder" weight="1.0" />
+      <edge id="281" source="mlkhattar" target="myogiadityanath" weight="1.0" />
+      <edge id="282" source="Zarmina94" target="SDPIPakistan" weight="5.0" />
+      <edge id="283" source="MadalenkaPL" target="Tash_Witk" weight="1.0" />
+      <edge id="284" source="MadalenkaPL" target="OlgaSzymkiewicz" weight="1.0" />
+      <edge id="285" source="MadalenkaPL" target="JoankaSW" weight="1.0" />
+      <edge id="286" source="MadalenkaPL" target="Nowoczesna" weight="1.0" />
+      <edge id="287" source="MadalenkaPL" target="RyszardPetru" weight="1.0" />
+      <edge id="288" source="MadalenkaPL" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="289" source="MadalenkaPL" target="ObywateleRP" weight="1.0" />
+      <edge id="290" source="Tash_Witk" target="OlgaSzymkiewicz" weight="1.0" />
+      <edge id="291" source="Tash_Witk" target="JoankaSW" weight="1.0" />
+      <edge id="292" source="Tash_Witk" target="Nowoczesna" weight="1.0" />
+      <edge id="293" source="Tash_Witk" target="RyszardPetru" weight="1.0" />
+      <edge id="294" source="Tash_Witk" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="295" source="Tash_Witk" target="ObywateleRP" weight="1.0" />
+      <edge id="296" source="OlgaSzymkiewicz" target="JoankaSW" weight="1.0" />
+      <edge id="297" source="OlgaSzymkiewicz" target="Nowoczesna" weight="1.0" />
+      <edge id="298" source="OlgaSzymkiewicz" target="RyszardPetru" weight="1.0" />
+      <edge id="299" source="OlgaSzymkiewicz" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="300" source="OlgaSzymkiewicz" target="ObywateleRP" weight="1.0" />
+      <edge id="301" source="JoankaSW" target="Nowoczesna" weight="1.0" />
+      <edge id="302" source="JoankaSW" target="RyszardPetru" weight="1.0" />
+      <edge id="303" source="JoankaSW" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="304" source="JoankaSW" target="ObywateleRP" weight="1.0" />
+      <edge id="305" source="Nowoczesna" target="RyszardPetru" weight="1.0" />
+      <edge id="306" source="Nowoczesna" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="307" source="Nowoczesna" target="ObywateleRP" weight="1.0" />
+      <edge id="308" source="RyszardPetru" target="ZbigniewHoldys" weight="1.0" />
+      <edge id="309" source="RyszardPetru" target="ObywateleRP" weight="1.0" />
+      <edge id="310" source="ZbigniewHoldys" target="ObywateleRP" weight="1.0" />
+      <edge id="311" source="TomaszBorejza" target="SmogLab" weight="2.0" />
+      <edge id="312" source="SmogLab" target="Greenpeace_PL" weight="1.0" />
+      <edge id="313" source="SmogLab" target="MinEnergii" weight="1.0" />
+      <edge id="314" source="SmogLab" target="alarm_smogowy" weight="1.0" />
+      <edge id="315" source="SmogLab" target="Radio_TOK_FM" weight="1.0" />
+      <edge id="316" source="SmogLab" target="iar_pr" weight="1.0" />
+      <edge id="317" source="SmogLab" target="PAPinformacje" weight="1.0" />
+      <edge id="318" source="SmogLab" target="SerwisZdrowie" weight="1.0" />
+      <edge id="319" source="mairodrigz" target="TiempoCom" weight="1.0" />
+      <edge id="320" source="NWSSeattle" target="yordanpopovbg" weight="1.0" />
+      <edge id="321" source="HighBPNews" target="thecyberbully13" weight="2.0" />
+      <edge id="322" source="HighBPNews" target="aloknath" weight="2.0" />
+      <edge id="323" source="thecyberbully13" target="aloknath" weight="2.0" />
+      <edge id="324" source="UNEPAsiaPacific" target="deespeak" weight="2.0" />
+      <edge id="325" source="rybnikeu" target="kuczerapiotr" weight="1.0" />
+      <edge id="326" source="SachinC36297527" target="BJP4India" weight="1.0" />
+      <edge id="327" source="BJP4India" target="DailyO_" weight="1.0" />
+      <edge id="328" source="BJP4India" target="IndiaToday" weight="1.0" />
+      <edge id="329" source="BJP4India" target="timesofindia" weight="4.0" />
+      <edge id="330" source="BJP4India" target="AamAadmiParty" weight="4.0" />
+      <edge id="331" source="BJP4India" target="BJP4Delhi" weight="3.0" />
+      <edge id="332" source="BJP4India" target="PMOIndia" weight="4.0" />
+      <edge id="333" source="BJP4India" target="BJPLive" weight="2.0" />
+      <edge id="334" source="BJP4India" target="narendramodi" weight="2.0" />
+      <edge id="335" source="BJP4India" target="abpnewshindi" weight="1.0" />
+      <edge id="336" source="BJP4India" target="aajtak" weight="1.0" />
+      <edge id="337" source="BJP4India" target="Tehelka" weight="2.0" />
+      <edge id="338" source="BJP4India" target="TimesNow" weight="2.0" />
+      <edge id="339" source="BJP4India" target="ndtv" weight="2.0" />
+      <edge id="340" source="BJP4India" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="341" source="BJP4India" target="the_hindu" weight="2.0" />
+      <edge id="342" source="BJP4India" target="BDUTT" weight="2.0" />
+      <edge id="343" source="BJP4India" target="sardesairajdeep" weight="2.0" />
+      <edge id="344" source="ESA_EO" target="CopernicusEU" weight="2.0" />
+      <edge id="345" source="JanMencwel" target="MiastoJestNasze" weight="2.0" />
+      <edge id="346" source="DailyO_" target="RajarshiGupta_8" weight="4.0" />
+      <edge id="347" source="DailyO_" target="IndiaToday" weight="2.0" />
+      <edge id="348" source="DailyO_" target="shwetapunj" weight="1.0" />
+      <edge id="349" source="DailyO_" target="Santosh0419" weight="2.0" />
+      <edge id="350" source="DailyO_" target="amitbhatt4u" weight="1.0" />
+      <edge id="351" source="cmohry" target="moefcc" weight="1.0" />
+      <edge id="352" source="cmohry" target="drharshvardhan" weight="1.0" />
+      <edge id="353" source="cmohry" target="RSSorg" weight="1.0" />
+      <edge id="354" source="cmohry" target="AashishKhetan" weight="2.0" />
+      <edge id="355" source="cmohry" target="UPGovt" weight="2.0" />
+      <edge id="356" source="cmohry" target="mfuloria" weight="1.0" />
+      <edge id="357" source="cmohry" target="PMOIndia" weight="1.0" />
+      <edge id="358" source="cmohry" target="capt_amarinder" weight="1.0" />
+      <edge id="359" source="cmohry" target="MunCorpGurugram" weight="1.0" />
+      <edge id="360" source="moefcc" target="drharshvardhan" weight="3.0" />
+      <edge id="361" source="moefcc" target="RSSorg" weight="1.0" />
+      <edge id="362" source="moefcc" target="UrbanDeptDelhi" weight="1.0" />
+      <edge id="363" source="moefcc" target="PMOIndia" weight="2.0" />
+      <edge id="364" source="moefcc" target="narendramodi" weight="1.0" />
+      <edge id="365" source="moefcc" target="SkymetWeather" weight="8.0" />
+      <edge id="366" source="moefcc" target="LtGovDelhi" weight="2.0" />
+      <edge id="367" source="moefcc" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="368" source="moefcc" target="nixxin" weight="1.0" />
+      <edge id="369" source="moefcc" target="HMOIndia" weight="1.0" />
+      <edge id="370" source="moefcc" target="UNFCCC" weight="1.0" />
+      <edge id="371" source="moefcc" target="YasheshYadav" weight="4.0" />
+      <edge id="372" source="drharshvardhan" target="RSSorg" weight="1.0" />
+      <edge id="373" source="drharshvardhan" target="narendramodi" weight="5.0" />
+      <edge id="374" source="drharshvardhan" target="KarmanyeIndia" weight="1.0" />
+      <edge id="375" source="drharshvardhan" target="Brikesh" weight="1.0" />
+      <edge id="376" source="drharshvardhan" target="Jhatkaa" weight="1.0" />
+      <edge id="377" source="drharshvardhan" target="DelhiBreathe" weight="1.0" />
+      <edge id="378" source="drharshvardhan" target="greenpeaceindia" weight="1.0" />
+      <edge id="379" source="drharshvardhan" target="bobbytalkcinema" weight="1.0" />
+      <edge id="380" source="drharshvardhan" target="PMOIndia" weight="5.0" />
+      <edge id="381" source="drharshvardhan" target="htTweets" weight="2.0" />
+      <edge id="382" source="drharshvardhan" target="sachkaaaina" weight="1.0" />
+      <edge id="383" source="drharshvardhan" target="batrakartikeya" weight="2.0" />
+      <edge id="384" source="drharshvardhan" target="sunitanar" weight="3.0" />
+      <edge id="385" source="drharshvardhan" target="bahardutt" weight="3.0" />
+      <edge id="386" source="drharshvardhan" target="msisodia" weight="3.0" />
+      <edge id="387" source="drharshvardhan" target="NitishKumar" weight="1.0" />
+      <edge id="388" source="drharshvardhan" target="SushilModi" weight="1.0" />
+      <edge id="389" source="drharshvardhan" target="mangalpandeybjp" weight="1.0" />
+      <edge id="390" source="drharshvardhan" target="JPNadda" weight="1.0" />
+      <edge id="391" source="drharshvardhan" target="dkinwild" weight="1.0" />
+      <edge id="392" source="drharshvardhan" target="ev_hs" weight="4.0" />
+      <edge id="393" source="drharshvardhan" target="rajnathsingh" weight="4.0" />
+      <edge id="394" source="drharshvardhan" target="LtGovDelhi" weight="4.0" />
+      <edge id="395" source="Greenpeace_PL" target="MinEnergii" weight="1.0" />
+      <edge id="396" source="Greenpeace_PL" target="alarm_smogowy" weight="1.0" />
+      <edge id="397" source="Greenpeace_PL" target="Radio_TOK_FM" weight="1.0" />
+      <edge id="398" source="Greenpeace_PL" target="iar_pr" weight="1.0" />
+      <edge id="399" source="Greenpeace_PL" target="PAPinformacje" weight="1.0" />
+      <edge id="400" source="Greenpeace_PL" target="SerwisZdrowie" weight="1.0" />
+      <edge id="401" source="MinEnergii" target="alarm_smogowy" weight="1.0" />
+      <edge id="402" source="MinEnergii" target="Radio_TOK_FM" weight="1.0" />
+      <edge id="403" source="MinEnergii" target="iar_pr" weight="1.0" />
+      <edge id="404" source="MinEnergii" target="PAPinformacje" weight="1.0" />
+      <edge id="405" source="MinEnergii" target="SerwisZdrowie" weight="1.0" />
+      <edge id="406" source="MinEnergii" target="PSamorzadowy" weight="4.0" />
+      <edge id="407" source="alarm_smogowy" target="Radio_TOK_FM" weight="1.0" />
+      <edge id="408" source="alarm_smogowy" target="iar_pr" weight="1.0" />
+      <edge id="409" source="alarm_smogowy" target="PAPinformacje" weight="1.0" />
+      <edge id="410" source="alarm_smogowy" target="SerwisZdrowie" weight="1.0" />
+      <edge id="411" source="alarm_smogowy" target="patryk_bialas" weight="3.0" />
+      <edge id="412" source="alarm_smogowy" target="PSamorzadowy" weight="2.0" />
+      <edge id="413" source="alarm_smogowy" target="zachodni" weight="3.0" />
+      <edge id="414" source="alarm_smogowy" target="M_Bartkowicz" weight="7.0" />
+      <edge id="415" source="alarm_smogowy" target="RadioKrakow" weight="7.0" />
+      <edge id="416" source="alarm_smogowy" target="SzKedz" weight="1.0" />
+      <edge id="417" source="alarm_smogowy" target="JagiellonskiUni" weight="1.0" />
+      <edge id="418" source="alarm_smogowy" target="HEALPolska" weight="1.0" />
+      <edge id="419" source="alarm_smogowy" target="zielen_krakow" weight="1.0" />
+      <edge id="420" source="Radio_TOK_FM" target="iar_pr" weight="1.0" />
+      <edge id="421" source="Radio_TOK_FM" target="PAPinformacje" weight="1.0" />
+      <edge id="422" source="Radio_TOK_FM" target="SerwisZdrowie" weight="1.0" />
+      <edge id="423" source="iar_pr" target="PAPinformacje" weight="1.0" />
+      <edge id="424" source="iar_pr" target="SerwisZdrowie" weight="1.0" />
+      <edge id="425" source="PAPinformacje" target="SerwisZdrowie" weight="1.0" />
+      <edge id="426" source="bomiasto" target="WojciechSaluga" weight="1.0" />
+      <edge id="427" source="econromesh" target="Ideas4India" weight="1.0" />
+      <edge id="428" source="patryk_bialas" target="zachodni" weight="3.0" />
+      <edge id="429" source="patryk_bialas" target="kkarolczak" weight="1.0" />
+      <edge id="430" source="patryk_bialas" target="Ciepiela_Darek" weight="1.0" />
+      <edge id="431" source="patryk_bialas" target="mkaczerowski" weight="1.0" />
+      <edge id="432" source="patryk_bialas" target="Vattenfall_De" weight="1.0" />
+      <edge id="433" source="patryk_bialas" target="umkatowice" weight="1.0" />
+      <edge id="434" source="patryk_bialas" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="435" source="patryk_bialas" target="MarekJozefiak" weight="1.0" />
+      <edge id="436" source="CNNnews18" target="Zakka_Jacob" weight="3.0" />
+      <edge id="437" source="CNNnews18" target="vimlendu" weight="1.0" />
+      <edge id="438" source="CNNnews18" target="cricketguru" weight="1.0" />
+      <edge id="439" source="CNNnews18" target="harjeet11" weight="2.0" />
+      <edge id="440" source="CNNnews18" target="TheOEDP" weight="2.0" />
+      <edge id="441" source="CNNnews18" target="PTI_News" weight="3.0" />
+      <edge id="442" source="Zakka_Jacob" target="vimlendu" weight="1.0" />
+      <edge id="443" source="Zakka_Jacob" target="cricketguru" weight="1.0" />
+      <edge id="444" source="PSamorzadowy" target="NFOSiGW" weight="1.0" />
+      <edge id="445" source="timesofindia" target="TOIDelhi" weight="1.0" />
+      <edge id="446" source="timesofindia" target="AamAadmiParty" weight="2.0" />
+      <edge id="447" source="timesofindia" target="BJP4Delhi" weight="2.0" />
+      <edge id="448" source="timesofindia" target="PMOIndia" weight="2.0" />
+      <edge id="449" source="timesofindia" target="Tehelka" weight="2.0" />
+      <edge id="450" source="timesofindia" target="TimesNow" weight="2.0" />
+      <edge id="451" source="timesofindia" target="ndtv" weight="2.0" />
+      <edge id="452" source="timesofindia" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="453" source="timesofindia" target="the_hindu" weight="2.0" />
+      <edge id="454" source="timesofindia" target="BDUTT" weight="2.0" />
+      <edge id="455" source="timesofindia" target="sardesairajdeep" weight="2.0" />
+      <edge id="456" source="timesofindia" target="UNICEF" weight="1.0" />
+      <edge id="457" source="KnowAboutThugs" target="ms_rana" weight="1.0" />
+      <edge id="458" source="KnowAboutThugs" target="snjykhtr" weight="1.0" />
+      <edge id="459" source="ms_rana" target="snjykhtr" weight="1.0" />
+      <edge id="460" source="Citizensforair" target="SalvaiciclistiR" weight="1.0" />
+      <edge id="461" source="pociaggory" target="IlonaPietrzak" weight="1.0" />
+      <edge id="462" source="pociaggory" target="Rafal_Gorski" weight="1.0" />
+      <edge id="463" source="pociaggory" target="piotrapel" weight="1.0" />
+      <edge id="464" source="IlonaPietrzak" target="Rafal_Gorski" weight="1.0" />
+      <edge id="465" source="IlonaPietrzak" target="piotrapel" weight="1.0" />
+      <edge id="466" source="Rafal_Gorski" target="piotrapel" weight="1.0" />
+      <edge id="467" source="Rafal_Gorski" target="BiznesAlert" weight="2.0" />
+      <edge id="468" source="Rafal_Gorski" target="m_roszkowski" weight="2.0" />
+      <edge id="469" source="Rafal_Gorski" target="styszka" weight="2.0" />
+      <edge id="470" source="stspring" target="BeingSalmanKhan" weight="1.0" />
+      <edge id="471" source="BeingSalmanKhan" target="StarSportsIndia" weight="2.0" />
+      <edge id="472" source="BeingSalmanKhan" target="imVkohli" weight="2.0" />
+      <edge id="473" source="BeingSalmanKhan" target="virendersehwag" weight="2.0" />
+      <edge id="474" source="BeingSalmanKhan" target="jatinsapru" weight="2.0" />
+      <edge id="475" source="IPL" target="PMOIndia" weight="1.0" />
+      <edge id="476" source="IPL" target="Indemb_Muscat" weight="1.0" />
+      <edge id="477" source="IPL" target="HMOIndia" weight="1.0" />
+      <edge id="478" source="IPL" target="DelhiDaredevils" weight="2.0" />
+      <edge id="479" source="IPL" target="WeAreTrivandrum" weight="2.0" />
+      <edge id="480" source="IPL" target="TrivandrumIndia" weight="2.0" />
+      <edge id="481" source="IPL" target="smarttrivandrum" weight="2.0" />
+      <edge id="482" source="IPL" target="flysrilankan" weight="1.0" />
+      <edge id="483" source="PMOIndia" target="Indemb_Muscat" weight="1.0" />
+      <edge id="484" source="PMOIndia" target="HMOIndia" weight="1.0" />
+      <edge id="485" source="PMOIndia" target="UrbanDeptDelhi" weight="1.0" />
+      <edge id="486" source="PMOIndia" target="narendramodi" weight="8.0" />
+      <edge id="487" source="PMOIndia" target="rajnathsingh" weight="6.0" />
+      <edge id="488" source="PMOIndia" target="JPNadda" weight="3.0" />
+      <edge id="489" source="PMOIndia" target="SatyendarJain" weight="3.0" />
+      <edge id="490" source="PMOIndia" target="journokanwar" weight="1.0" />
+      <edge id="491" source="PMOIndia" target="arunjaitley" weight="1.0" />
+      <edge id="492" source="PMOIndia" target="ndtv" weight="5.0" />
+      <edge id="493" source="PMOIndia" target="AamAadmiParty" weight="3.0" />
+      <edge id="494" source="PMOIndia" target="KherajDas" weight="11.0" />
+      <edge id="495" source="PMOIndia" target="rashtrapatibhvn" weight="13.0" />
+      <edge id="496" source="PMOIndia" target="htTweets" weight="2.0" />
+      <edge id="497" source="PMOIndia" target="BJPLive" weight="2.0" />
+      <edge id="498" source="PMOIndia" target="Gupta_vijender" weight="1.0" />
+      <edge id="499" source="PMOIndia" target="LtGovDelhi" weight="1.0" />
+      <edge id="500" source="PMOIndia" target="bobbytalkcinema" weight="1.0" />
+      <edge id="501" source="PMOIndia" target="capt_amarinder" weight="2.0" />
+      <edge id="502" source="PMOIndia" target="aajtak" weight="1.0" />
+      <edge id="503" source="PMOIndia" target="DrKumarVishwas" weight="1.0" />
+      <edge id="504" source="PMOIndia" target="HardeepSPuri" weight="1.0" />
+      <edge id="505" source="PMOIndia" target="MoHUA_India" weight="1.0" />
+      <edge id="506" source="PMOIndia" target="Saurabh_MLAgk" weight="1.0" />
+      <edge id="507" source="PMOIndia" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="508" source="PMOIndia" target="Ad_shant" weight="1.0" />
+      <edge id="509" source="PMOIndia" target="CSIR_IND" weight="1.0" />
+      <edge id="510" source="PMOIndia" target="ndmaindia" weight="1.0" />
+      <edge id="511" source="PMOIndia" target="cricketaakash" weight="1.0" />
+      <edge id="512" source="PMOIndia" target="Tehelka" weight="2.0" />
+      <edge id="513" source="PMOIndia" target="TimesNow" weight="2.0" />
+      <edge id="514" source="PMOIndia" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="515" source="PMOIndia" target="the_hindu" weight="2.0" />
+      <edge id="516" source="PMOIndia" target="BDUTT" weight="2.0" />
+      <edge id="517" source="PMOIndia" target="sardesairajdeep" weight="2.0" />
+      <edge id="518" source="PMOIndia" target="poojamakhija" weight="1.0" />
+      <edge id="519" source="PMOIndia" target="nitin_gadkari" weight="2.0" />
+      <edge id="520" source="PMOIndia" target="CPDelhi" weight="1.0" />
+      <edge id="521" source="PMOIndia" target="pwddelhi" weight="1.0" />
+      <edge id="522" source="PMOIndia" target="mfuloria" weight="1.0" />
+      <edge id="523" source="PMOIndia" target="MunCorpGurugram" weight="1.0" />
+      <edge id="524" source="PMOIndia" target="ev_hs" weight="4.0" />
+      <edge id="525" source="Indemb_Muscat" target="HMOIndia" weight="1.0" />
+      <edge id="526" source="HMOIndia" target="LtGovDelhi" weight="1.0" />
+      <edge id="527" source="vimlendu" target="cricketguru" weight="1.0" />
+      <edge id="528" source="HJaluthariya" target="SatlokChannel" weight="1.0" />
+      <edge id="529" source="HJaluthariya" target="wef" weight="1.0" />
+      <edge id="530" source="HJaluthariya" target="WSJ" weight="1.0" />
+      <edge id="531" source="HJaluthariya" target="RidgeOnSunday" weight="1.0" />
+      <edge id="532" source="HJaluthariya" target="ZeeNewsHindi" weight="1.0" />
+      <edge id="533" source="HJaluthariya" target="Number10gov" weight="1.0" />
+      <edge id="534" source="SatlokChannel" target="Jeetendradas4" weight="1.0" />
+      <edge id="535" source="SatlokChannel" target="Ananddaas4" weight="1.0" />
+      <edge id="536" source="SatlokChannel" target="Ombhai3" weight="1.0" />
+      <edge id="537" source="SatlokChannel" target="DasManmohan3" weight="2.0" />
+      <edge id="538" source="SatlokChannel" target="mithleshdass5" weight="4.0" />
+      <edge id="539" source="SatlokChannel" target="ltd_india" weight="1.0" />
+      <edge id="540" source="INCIndia" target="DeependerSHooda" weight="1.0" />
+      <edge id="541" source="INCIndia" target="narendramodi" weight="1.0" />
+      <edge id="542" source="INCIndia" target="mediacrooks" weight="1.0" />
+      <edge id="543" source="INCIndia" target="Ram_Guha" weight="1.0" />
+      <edge id="544" source="INCIndia" target="firstpost" weight="1.0" />
+      <edge id="545" source="INCIndia" target="OfficeOfRG" weight="1.0" />
+      <edge id="546" source="DeependerSHooda" target="narendramodi" weight="1.0" />
+      <edge id="547" source="narendramodi" target="BJPLive" weight="2.0" />
+      <edge id="548" source="narendramodi" target="bobbytalkcinema" weight="1.0" />
+      <edge id="549" source="narendramodi" target="capt_amarinder" weight="2.0" />
+      <edge id="550" source="narendramodi" target="aajtak" weight="1.0" />
+      <edge id="551" source="narendramodi" target="ndtv" weight="1.0" />
+      <edge id="552" source="narendramodi" target="electivenow" weight="1.0" />
+      <edge id="553" source="narendramodi" target="htTweets" weight="2.0" />
+      <edge id="554" source="narendramodi" target="_YogendraYadav" weight="1.0" />
+      <edge id="555" source="narendramodi" target="pbhushan1" weight="1.0" />
+      <edge id="556" source="narendramodi" target="jeelanikash" weight="1.0" />
+      <edge id="557" source="narendramodi" target="gossipdatabase" weight="1.0" />
+      <edge id="558" source="narendramodi" target="PTI_News" weight="1.0" />
+      <edge id="559" source="narendramodi" target="rajnathsingh" weight="1.0" />
+      <edge id="560" source="narendramodi" target="batrakartikeya" weight="2.0" />
+      <edge id="561" source="narendramodi" target="sunitanar" weight="2.0" />
+      <edge id="562" source="narendramodi" target="bahardutt" weight="2.0" />
+      <edge id="563" source="narendramodi" target="msisodia" weight="2.0" />
+      <edge id="564" source="narendramodi" target="JPNadda" weight="2.0" />
+      <edge id="565" source="narendramodi" target="ZeeNews" weight="1.0" />
+      <edge id="566" source="narendramodi" target="DelhiAirOrg" weight="1.0" />
+      <edge id="567" source="narendramodi" target="cricketaakash" weight="1.0" />
+      <edge id="568" source="narendramodi" target="Rulayega_Kya" weight="1.0" />
+      <edge id="569" source="narendramodi" target="BreathingDelhi" weight="1.0" />
+      <edge id="570" source="narendramodi" target="ManushiChhillar" weight="1.0" />
+      <edge id="571" source="narendramodi" target="aamir_khan" weight="1.0" />
+      <edge id="572" source="narendramodi" target="AmitShah" weight="1.0" />
+      <edge id="573" source="narendramodi" target="anandmahindra" weight="1.0" />
+      <edge id="574" source="narendramodi" target="arunjaitley" weight="1.0" />
+      <edge id="575" source="narendramodi" target="azimpremjiunive" weight="1.0" />
+      <edge id="576" source="narendramodi" target="kiranshaw" weight="1.0" />
+      <edge id="577" source="narendramodi" target="MamataOfficial" weight="1.0" />
+      <edge id="578" source="narendramodi" target="myogiadityanath" weight="1.0" />
+      <edge id="579" source="narendramodi" target="NitishKumar" weight="1.0" />
+      <edge id="580" source="narendramodi" target="SushilModi" weight="1.0" />
+      <edge id="581" source="narendramodi" target="mangalpandeybjp" weight="1.0" />
+      <edge id="582" source="ASKardar" target="AmirMateen2" weight="1.0" />
+      <edge id="583" source="ASKardar" target="KlasraRauf" weight="1.0" />
+      <edge id="584" source="ASKardar" target="sarwatvalim" weight="1.0" />
+      <edge id="585" source="AmirMateen2" target="KlasraRauf" weight="1.0" />
+      <edge id="586" source="AmirMateen2" target="sarwatvalim" weight="1.0" />
+      <edge id="587" source="KlasraRauf" target="sarwatvalim" weight="1.0" />
+      <edge id="588" source="ObamaFoundation" target="BarackObama" weight="1.0" />
+      <edge id="589" source="BarackObama" target="ibtimes_india" weight="1.0" />
+      <edge id="590" source="M5SER" target="gianlucasassi" weight="7.0" />
+      <edge id="591" source="M5SER" target="dellorco85" weight="7.0" />
+      <edge id="592" source="M5SER" target="demmy747" weight="3.0" />
+      <edge id="593" source="gianlucasassi" target="dellorco85" weight="8.0" />
+      <edge id="594" source="clutchplay" target="imVkohli" weight="1.0" />
+      <edge id="595" source="clutchplay" target="MdShami11" weight="1.0" />
+      <edge id="596" source="clutchplay" target="plalor" weight="1.0" />
+      <edge id="597" source="clutchplay" target="scroll_in" weight="1.0" />
+      <edge id="598" source="imVkohli" target="MdShami11" weight="3.0" />
+      <edge id="599" source="imVkohli" target="mvj888" weight="2.0" />
+      <edge id="600" source="imVkohli" target="RjPuneet" weight="1.0" />
+      <edge id="601" source="imVkohli" target="ZeeNewsHindi" weight="3.0" />
+      <edge id="602" source="imVkohli" target="InUthdotcom" weight="2.0" />
+      <edge id="603" source="imVkohli" target="chandi_17" weight="1.0" />
+      <edge id="604" source="imVkohli" target="shabstech" weight="1.0" />
+      <edge id="605" source="imVkohli" target="firstpost" weight="1.0" />
+      <edge id="606" source="imVkohli" target="sucheritak" weight="3.0" />
+      <edge id="607" source="imVkohli" target="sachin_rt" weight="4.0" />
+      <edge id="608" source="imVkohli" target="slcricketclub" weight="1.0" />
+      <edge id="609" source="imVkohli" target="KumarSanga2" weight="1.0" />
+      <edge id="610" source="imVkohli" target="ArjunaRanatunga" weight="1.0" />
+      <edge id="611" source="imVkohli" target="virendersehwag" weight="9.0" />
+      <edge id="612" source="imVkohli" target="StarSportsIndia" weight="4.0" />
+      <edge id="613" source="imVkohli" target="jatinsapru" weight="2.0" />
+      <edge id="614" source="imVkohli" target="AjiHaaan" weight="1.0" />
+      <edge id="615" source="imVkohli" target="ashwinravi99" weight="1.0" />
+      <edge id="616" source="imVkohli" target="DainikBhaskar" weight="1.0" />
+      <edge id="617" source="imVkohli" target="ViratKohliFC" weight="1.0" />
+      <edge id="618" source="imVkohli" target="msdhoni" weight="1.0" />
+      <edge id="619" source="imVkohli" target="Delhi_Pollution" weight="1.0" />
+      <edge id="620" source="imVkohli" target="rima_barua" weight="1.0" />
+      <edge id="621" source="imVkohli" target="AamAadmiParty" weight="1.0" />
+      <edge id="622" source="imVkohli" target="ICC" weight="1.0" />
+      <edge id="623" source="imVkohli" target="TOICitiesNews" weight="1.0" />
+      <edge id="624" source="imVkohli" target="SatishKTM" weight="1.0" />
+      <edge id="625" source="MdShami11" target="NewsWorldIN" weight="1.0" />
+      <edge id="626" source="MdShami11" target="KapilMishra_IND" weight="2.0" />
+      <edge id="627" source="MdShami11" target="ManojTiwariMP" weight="2.0" />
+      <edge id="628" source="MdShami11" target="virendersehwag" weight="1.0" />
+      <edge id="629" source="MdShami11" target="cricketsrilanka" weight="1.0" />
+      <edge id="630" source="MdShami11" target="ICC" weight="1.0" />
+      <edge id="631" source="SidharthNSingh" target="CMOfficeUP" weight="1.0" />
+      <edge id="632" source="governancenow" target="TheLancet" weight="2.0" />
+      <edge id="633" source="governancenow" target="AAPDelhi" weight="2.0" />
+      <edge id="634" source="TheLancet" target="AAPDelhi" weight="3.0" />
+      <edge id="635" source="SirJadeja" target="vinodk1969" weight="1.0" />
+      <edge id="636" source="SirJadeja" target="TroluKejri" weight="1.0" />
+      <edge id="637" source="SirJadeja" target="SirJadejaaaa" weight="1.0" />
+      <edge id="638" source="SirJadeja" target="Sudathchamin" weight="1.0" />
+      <edge id="639" source="SirJadeja" target="virendersehwag" weight="2.0" />
+      <edge id="640" source="SirJadeja" target="DulanAsiri" weight="1.0" />
+      <edge id="641" source="SirJadeja" target="antopraveen1" weight="1.0" />
+      <edge id="642" source="SirJadeja" target="worldexegete" weight="1.0" />
+      <edge id="643" source="SirJadeja" target="KarthikJannu" weight="1.0" />
+      <edge id="644" source="SirJadeja" target="RaveeenaAgg" weight="2.0" />
+      <edge id="645" source="SirJadeja" target="rachit_g2" weight="1.0" />
+      <edge id="646" source="HaydosTweets" target="RusselArnold69" weight="1.0" />
+      <edge id="647" source="RusselArnold69" target="MahelaJay" weight="1.0" />
+      <edge id="648" source="RusselArnold69" target="Angelo69Mathews" weight="1.0" />
+      <edge id="649" source="RusselArnold69" target="chandi_17" weight="1.0" />
+      <edge id="650" source="RusselArnold69" target="shiyam160" weight="1.0" />
+      <edge id="651" source="RusselArnold69" target="virendersehwag" weight="1.0" />
+      <edge id="652" source="RusselArnold69" target="daniel86cricket" weight="2.0" />
+      <edge id="653" source="RusselArnold69" target="ajinkyarahane88" weight="2.0" />
+      <edge id="654" source="RusselArnold69" target="rahulkanwal" weight="2.0" />
+      <edge id="655" source="RusselArnold69" target="cricketwallah" weight="2.0" />
+      <edge id="656" source="RusselArnold69" target="RoshanCricket" weight="2.0" />
+      <edge id="657" source="SaritaC66829865" target="BagatManmohan" weight="24.0" />
+      <edge id="658" source="StarSportsIndia" target="virendersehwag" weight="6.0" />
+      <edge id="659" source="StarSportsIndia" target="VVSLaxman281" weight="3.0" />
+      <edge id="660" source="StarSportsIndia" target="cricbuzz" weight="1.0" />
+      <edge id="661" source="StarSportsIndia" target="virupanti" weight="1.0" />
+      <edge id="662" source="StarSportsIndia" target="jatinsapru" weight="2.0" />
+      <edge id="663" source="StarSportsIndia" target="ICC" weight="1.0" />
+      <edge id="664" source="virendersehwag" target="Dailymirror_SL" weight="1.0" />
+      <edge id="665" source="virendersehwag" target="aajtak" weight="1.0" />
+      <edge id="666" source="virendersehwag" target="shiyam160" weight="1.0" />
+      <edge id="667" source="virendersehwag" target="Aasirricherd" weight="2.0" />
+      <edge id="668" source="virendersehwag" target="jatinsapru" weight="2.0" />
+      <edge id="669" source="virendersehwag" target="Asli_Jacqueline" weight="1.0" />
+      <edge id="670" source="virendersehwag" target="Wriddhipops" weight="1.0" />
+      <edge id="671" source="virendersehwag" target="VVSLaxman281" weight="2.0" />
+      <edge id="672" source="virendersehwag" target="BrokenCricket" weight="1.0" />
+      <edge id="673" source="virendersehwag" target="ICC" weight="1.0" />
+      <edge id="674" source="virendersehwag" target="ICCMediaComms" weight="1.0" />
+      <edge id="675" source="virendersehwag" target="cricketaakash" weight="2.0" />
+      <edge id="676" source="virendersehwag" target="rima_barua" weight="1.0" />
+      <edge id="677" source="virendersehwag" target="sachin_rt" weight="2.0" />
+      <edge id="678" source="virendersehwag" target="vikrantgupta73" weight="1.0" />
+      <edge id="679" source="OmendraBharat" target="ANI" weight="1.0" />
+      <edge id="680" source="OmendraBharat" target="aajtak" weight="1.0" />
+      <edge id="681" source="ANI" target="aajtak" weight="2.0" />
+      <edge id="682" source="aajtak" target="ndtv" weight="2.0" />
+      <edge id="683" source="aajtak" target="girirajsinghbjp" weight="1.0" />
+      <edge id="684" source="aajtak" target="capt_amarinder" weight="1.0" />
+      <edge id="685" source="aajtak" target="AajGothi" weight="3.0" />
+      <edge id="686" source="aajtak" target="cricketsrilanka" weight="1.0" />
+      <edge id="687" source="aajtak" target="AamAadmiParty" weight="1.0" />
+      <edge id="688" source="aajtak" target="abpnewshindi" weight="1.0" />
+      <edge id="689" source="aajtak" target="myogiadityanath" weight="1.0" />
+      <edge id="690" source="aajtak" target="SatyendarJain" weight="1.0" />
+      <edge id="691" source="aajtak" target="DelhiPolice" weight="1.0" />
+      <edge id="692" source="aajtak" target="Uppolice" weight="1.0" />
+      <edge id="693" source="aajtak" target="ashutosh_83B" weight="1.0" />
+      <edge id="694" source="bhogleharsha" target="cricbuzz" weight="2.0" />
+      <edge id="695" source="bhogleharsha" target="sumzy27" weight="1.0" />
+      <edge id="696" source="bhogleharsha" target="jshetty007" weight="1.0" />
+      <edge id="697" source="bhogleharsha" target="gulu1959" weight="1.0" />
+      <edge id="698" source="bhogleharsha" target="markbutcher72" weight="1.0" />
+      <edge id="699" source="bhogleharsha" target="gauravkalra75" weight="1.0" />
+      <edge id="700" source="bhogleharsha" target="Excricketr" weight="1.0" />
+      <edge id="701" source="cricbuzz" target="Angelo69Mathews" weight="1.0" />
+      <edge id="702" source="cricbuzz" target="CricketTrolls" weight="1.0" />
+      <edge id="703" source="cricbuzz" target="virupanti" weight="1.0" />
+      <edge id="704" source="cricbuzz" target="SriLanka" weight="1.0" />
+      <edge id="705" source="MahimaSharmaS" target="Abyaz_NN" weight="1.0" />
+      <edge id="706" source="MahimaSharmaS" target="swetasri_nn" weight="1.0" />
+      <edge id="707" source="MahimaSharmaS" target="Vatsalyarai" weight="1.0" />
+      <edge id="708" source="MahimaSharmaS" target="Vanket1" weight="1.0" />
+      <edge id="709" source="MahimaSharmaS" target="rainaswati" weight="1.0" />
+      <edge id="710" source="MahimaSharmaS" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="711" source="MahimaSharmaS" target="anujajTOI" weight="1.0" />
+      <edge id="712" source="Abyaz_NN" target="swetasri_nn" weight="1.0" />
+      <edge id="713" source="Abyaz_NN" target="Vatsalyarai" weight="1.0" />
+      <edge id="714" source="Abyaz_NN" target="Vanket1" weight="1.0" />
+      <edge id="715" source="Abyaz_NN" target="rainaswati" weight="1.0" />
+      <edge id="716" source="Abyaz_NN" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="717" source="Abyaz_NN" target="anujajTOI" weight="1.0" />
+      <edge id="718" source="swetasri_nn" target="Vatsalyarai" weight="1.0" />
+      <edge id="719" source="swetasri_nn" target="Vanket1" weight="1.0" />
+      <edge id="720" source="swetasri_nn" target="rainaswati" weight="1.0" />
+      <edge id="721" source="swetasri_nn" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="722" source="swetasri_nn" target="anujajTOI" weight="1.0" />
+      <edge id="723" source="Vatsalyarai" target="Vanket1" weight="1.0" />
+      <edge id="724" source="Vatsalyarai" target="rainaswati" weight="1.0" />
+      <edge id="725" source="Vatsalyarai" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="726" source="Vatsalyarai" target="anujajTOI" weight="1.0" />
+      <edge id="727" source="Vanket1" target="rainaswati" weight="1.0" />
+      <edge id="728" source="Vanket1" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="729" source="Vanket1" target="anujajTOI" weight="1.0" />
+      <edge id="730" source="rainaswati" target="AnupamTrivedi26" weight="1.0" />
+      <edge id="731" source="rainaswati" target="anujajTOI" weight="1.0" />
+      <edge id="732" source="AnupamTrivedi26" target="anujajTOI" weight="1.0" />
+      <edge id="733" source="sardesairajdeep" target="Tehelka" weight="2.0" />
+      <edge id="734" source="sardesairajdeep" target="TimesNow" weight="2.0" />
+      <edge id="735" source="sardesairajdeep" target="ndtv" weight="2.0" />
+      <edge id="736" source="sardesairajdeep" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="737" source="sardesairajdeep" target="the_hindu" weight="2.0" />
+      <edge id="738" source="sardesairajdeep" target="BDUTT" weight="2.0" />
+      <edge id="739" source="LungAssociation" target="atscommunity" weight="1.0" />
+      <edge id="740" source="LungAssociation" target="PublicHealth" weight="1.0" />
+      <edge id="741" source="atscommunity" target="PublicHealth" weight="1.0" />
+      <edge id="742" source="MrTimDunn" target="RIBA" weight="1.0" />
+      <edge id="743" source="fabrizioassandr" target="StampaTorino" weight="2.0" />
+      <edge id="744" source="UPWroclaw" target="PWr_Wroclaw" weight="2.0" />
+      <edge id="745" source="UPWroclaw" target="umed_wroc" weight="2.0" />
+      <edge id="746" source="PWr_Wroclaw" target="umed_wroc" weight="3.0" />
+      <edge id="747" source="HEALPolska" target="kamilwyszkowski" weight="1.0" />
+      <edge id="748" source="HEALPolska" target="WHO" weight="1.0" />
+      <edge id="749" source="HEALPolska" target="JagiellonskiUni" weight="1.0" />
+      <edge id="750" source="HEALPolska" target="zielen_krakow" weight="1.0" />
+      <edge id="751" source="kamilwyszkowski" target="WHO" weight="1.0" />
+      <edge id="752" source="WHO" target="iocmedia" weight="1.0" />
+      <edge id="753" source="torunpl" target="LubieTuByc" weight="1.0" />
+      <edge id="754" source="ShinjiniG" target="the_hindu" weight="1.0" />
+      <edge id="755" source="ShinjiniG" target="DelhiConnect" weight="1.0" />
+      <edge id="756" source="ShinjiniG" target="abaruah64" weight="1.0" />
+      <edge id="757" source="the_hindu" target="DelhiConnect" weight="1.0" />
+      <edge id="758" source="the_hindu" target="abaruah64" weight="1.0" />
+      <edge id="759" source="the_hindu" target="Tehelka" weight="2.0" />
+      <edge id="760" source="the_hindu" target="TimesNow" weight="2.0" />
+      <edge id="761" source="the_hindu" target="ndtv" weight="2.0" />
+      <edge id="762" source="the_hindu" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="763" source="the_hindu" target="BDUTT" weight="2.0" />
+      <edge id="764" source="the_hindu" target="PTI_News" weight="1.0" />
+      <edge id="765" source="DelhiConnect" target="abaruah64" weight="1.0" />
+      <edge id="766" source="mustvisit2020" target="aahnas1" weight="2.0" />
+      <edge id="767" source="mustvisit2020" target="SkymetWeather" weight="2.0" />
+      <edge id="768" source="aahnas1" target="SkymetWeather" weight="2.0" />
+      <edge id="769" source="SkymetWeather" target="sandymbbs" weight="1.0" />
+      <edge id="770" source="SkymetWeather" target="Indiametdept" weight="1.0" />
+      <edge id="771" source="SkymetWeather" target="nistula" weight="8.0" />
+      <edge id="772" source="SkymetWeather" target="Mpalawat" weight="24.0" />
+      <edge id="773" source="SkymetWeather" target="delhipollution" weight="1.0" />
+      <edge id="774" source="SkymetWeather" target="Rajeshkumar2974" weight="1.0" />
+      <edge id="775" source="SkymetWeather" target="GargiRawat" weight="1.0" />
+      <edge id="776" source="SkymetWeather" target="RidlrDEL" weight="1.0" />
+      <edge id="777" source="SkymetWeather" target="ChennaiTimesTOI" weight="1.0" />
+      <edge id="778" source="MahelaJay" target="Angelo69Mathews" weight="1.0" />
+      <edge id="779" source="MahelaJay" target="chandi_17" weight="1.0" />
+      <edge id="780" source="MahelaJay" target="KumarSanga2" weight="2.0" />
+      <edge id="781" source="Angelo69Mathews" target="chandi_17" weight="4.0" />
+      <edge id="782" source="Angelo69Mathews" target="CricketTrolls" weight="1.0" />
+      <edge id="783" source="Angelo69Mathews" target="imkuldeep18" weight="1.0" />
+      <edge id="784" source="Angelo69Mathews" target="KhabarNwi" weight="1.0" />
+      <edge id="785" source="chandi_17" target="imkuldeep18" weight="1.0" />
+      <edge id="786" source="chandi_17" target="ARVLoshan" weight="1.0" />
+      <edge id="787" source="LucaLombroso" target="Grabbi_it" weight="1.0" />
+      <edge id="788" source="LucaLombroso" target="wganapini" weight="3.0" />
+      <edge id="789" source="mma1982fortis" target="Bhupenpunia" weight="1.0" />
+      <edge id="790" source="ZeeNewsHindi" target="wef" weight="1.0" />
+      <edge id="791" source="ZeeNewsHindi" target="WSJ" weight="1.0" />
+      <edge id="792" source="ZeeNewsHindi" target="RidgeOnSunday" weight="1.0" />
+      <edge id="793" source="ZeeNewsHindi" target="Number10gov" weight="1.0" />
+      <edge id="794" source="rahulkanwal" target="airqualityindia" weight="3.0" />
+      <edge id="795" source="rahulkanwal" target="Delhi_Pollution" weight="3.0" />
+      <edge id="796" source="rahulkanwal" target="OXYCHARGE95" weight="3.0" />
+      <edge id="797" source="rahulkanwal" target="hvgoenka" weight="1.0" />
+      <edge id="798" source="rahulkanwal" target="daniel86cricket" weight="2.0" />
+      <edge id="799" source="rahulkanwal" target="ajinkyarahane88" weight="2.0" />
+      <edge id="800" source="rahulkanwal" target="cricketwallah" weight="2.0" />
+      <edge id="801" source="rahulkanwal" target="RoshanCricket" weight="2.0" />
+      <edge id="802" source="airqualityindia" target="Delhi_Pollution" weight="3.0" />
+      <edge id="803" source="airqualityindia" target="OXYCHARGE95" weight="3.0" />
+      <edge id="804" source="airqualityindia" target="NabzTweet" weight="2.0" />
+      <edge id="805" source="airqualityindia" target="CSEINDIA" weight="1.0" />
+      <edge id="806" source="airqualityindia" target="IndiaSpendAir" weight="1.0" />
+      <edge id="807" source="airqualityindia" target="sharmapooja000" weight="1.0" />
+      <edge id="808" source="airqualityindia" target="parthaabosu" weight="1.0" />
+      <edge id="809" source="airqualityindia" target="Open_AQ" weight="1.0" />
+      <edge id="810" source="Delhi_Pollution" target="OXYCHARGE95" weight="3.0" />
+      <edge id="811" source="twitorino" target="ComuneMI" weight="1.0" />
+      <edge id="812" source="twitorino" target="Roma" weight="1.0" />
+      <edge id="813" source="twitorino" target="c_appendino" weight="1.0" />
+      <edge id="814" source="ComuneMI" target="Roma" weight="1.0" />
+      <edge id="815" source="spfcpakistan" target="SyedMAbubakar" weight="5.0" />
+      <edge id="816" source="TLO_PolsatNews" target="PolsatNewsPL" weight="1.0" />
+      <edge id="817" source="zachodni" target="a_dziedzic" weight="1.0" />
+      <edge id="818" source="zachodni" target="DorotaNiecko" weight="1.0" />
+      <edge id="819" source="zachodni" target="gazeta_wyborcza" weight="1.0" />
+      <edge id="820" source="zachodni" target="FaktyTVN" weight="1.0" />
+      <edge id="821" source="zachodni" target="RadiowaTrojka" weight="1.0" />
+      <edge id="822" source="pid_gov" target="ImranKhanPTI" weight="1.0" />
+      <edge id="823" source="pid_gov" target="PTVNewsOfficial" weight="1.0" />
+      <edge id="824" source="pid_gov" target="RadioPakistan" weight="1.0" />
+      <edge id="825" source="pid_gov" target="UN" weight="1.0" />
+      <edge id="826" source="smartcityfbd" target="MSJEGOI" weight="1.0" />
+      <edge id="827" source="smartcityfbd" target="SwachhBharatGov" weight="1.0" />
+      <edge id="828" source="MSJEGOI" target="SwachhBharatGov" weight="1.0" />
+      <edge id="829" source="M_Bartkowicz" target="RadioKrakow" weight="7.0" />
+      <edge id="830" source="sohailimrangeo" target="IbrahimBadees" weight="1.0" />
+      <edge id="831" source="sohailimrangeo" target="TheRealPCB" weight="1.0" />
+      <edge id="832" source="sohailimrangeo" target="najamsethi" weight="1.0" />
+      <edge id="833" source="IbrahimBadees" target="TheRealPCB" weight="1.0" />
+      <edge id="834" source="IbrahimBadees" target="najamsethi" weight="1.0" />
+      <edge id="835" source="TheRealPCB" target="najamsethi" weight="1.0" />
+      <edge id="836" source="KapilMishra_IND" target="ashutosh83B" weight="1.0" />
+      <edge id="837" source="KapilMishra_IND" target="ManojTiwariMP" weight="2.0" />
+      <edge id="838" source="KapilMishra_IND" target="Bhupi5443" weight="1.0" />
+      <edge id="839" source="KapilMishra_IND" target="amolbachhav_" weight="8.0" />
+      <edge id="840" source="KapilMishra_IND" target="kehkelunga12345" weight="1.0" />
+      <edge id="841" source="ravivermakqr" target="SdDurgesh" weight="1.0" />
+      <edge id="842" source="ravivermakqr" target="NootanGupta1" weight="1.0" />
+      <edge id="843" source="ravivermakqr" target="Bugsssssssss" weight="1.0" />
+      <edge id="844" source="SdDurgesh" target="NootanGupta1" weight="1.0" />
+      <edge id="845" source="SdDurgesh" target="Bugsssssssss" weight="1.0" />
+      <edge id="846" source="NootanGupta1" target="Bugsssssssss" weight="1.0" />
+      <edge id="847" source="Prem__JP" target="thefield_in" weight="1.0" />
+      <edge id="848" source="Prem__JP" target="CkKhannaBCCI" weight="1.0" />
+      <edge id="849" source="thefield_in" target="CkKhannaBCCI" weight="1.0" />
+      <edge id="850" source="7SealsOfTheEnd" target="Krommsan" weight="1.0" />
+      <edge id="851" source="rajnathsingh" target="ev_hs" weight="4.0" />
+      <edge id="852" source="KumarSanga2" target="slcricketclub" weight="1.0" />
+      <edge id="853" source="KumarSanga2" target="ArjunaRanatunga" weight="1.0" />
+      <edge id="854" source="KumarSanga2" target="jhasaurabh564" weight="1.0" />
+      <edge id="855" source="dm_ghaziabad" target="myogiadityanath" weight="1.0" />
+      <edge id="856" source="myogiadityanath" target="SatyendarJain" weight="3.0" />
+      <edge id="857" source="myogiadityanath" target="DelhiPolice" weight="3.0" />
+      <edge id="858" source="myogiadityanath" target="Uppolice" weight="3.0" />
+      <edge id="859" source="myogiadityanath" target="DfsiKumar" weight="2.0" />
+      <edge id="860" source="myogiadityanath" target="ndtv" weight="2.0" />
+      <edge id="861" source="myogiadityanath" target="capt_amarinder" weight="1.0" />
+      <edge id="862" source="rupeshsharma02" target="ManojTiwariMP" weight="1.0" />
+      <edge id="863" source="JPNadda" target="SatyendarJain" weight="3.0" />
+      <edge id="864" source="JPNadda" target="ndtv" weight="2.0" />
+      <edge id="865" source="JPNadda" target="AamAadmiParty" weight="2.0" />
+      <edge id="866" source="JPNadda" target="ZeeNews" weight="1.0" />
+      <edge id="867" source="JPNadda" target="wef" weight="2.0" />
+      <edge id="868" source="JPNadda" target="NitishKumar" weight="1.0" />
+      <edge id="869" source="JPNadda" target="SushilModi" weight="1.0" />
+      <edge id="870" source="JPNadda" target="mangalpandeybjp" weight="1.0" />
+      <edge id="871" source="SatyendarJain" target="ndtv" weight="4.0" />
+      <edge id="872" source="SatyendarJain" target="AamAadmiParty" weight="2.0" />
+      <edge id="873" source="SatyendarJain" target="DineshKrChauha" weight="3.0" />
+      <edge id="874" source="SatyendarJain" target="PMO_India" weight="3.0" />
+      <edge id="875" source="SatyendarJain" target="LtGovDelhi" weight="3.0" />
+      <edge id="876" source="SatyendarJain" target="DelhiPolice" weight="3.0" />
+      <edge id="877" source="SatyendarJain" target="Uppolice" weight="3.0" />
+      <edge id="878" source="SatyendarJain" target="DfsiKumar" weight="2.0" />
+      <edge id="879" source="SatyendarJain" target="msisodia" weight="2.0" />
+      <edge id="880" source="SatyendarJain" target="an_a_nd" weight="1.0" />
+      <edge id="881" source="prashantruia" target="Essar_Steel" weight="2.0" />
+      <edge id="882" source="ndtv" target="AamAadmiParty" weight="2.0" />
+      <edge id="883" source="ndtv" target="capt_amarinder" weight="1.0" />
+      <edge id="884" source="ndtv" target="Tehelka" weight="2.0" />
+      <edge id="885" source="ndtv" target="TimesNow" weight="4.0" />
+      <edge id="886" source="ndtv" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="887" source="ndtv" target="BDUTT" weight="2.0" />
+      <edge id="888" source="ndtv" target="Upganlawar" weight="2.0" />
+      <edge id="889" source="ndtv" target="abpnewstv" weight="2.0" />
+      <edge id="890" source="ndtv" target="ZeeNews" weight="2.0" />
+      <edge id="891" source="ndtv" target="VishnuNDTV" weight="1.0" />
+      <edge id="892" source="ndtv" target="DfsiKumar" weight="2.0" />
+      <edge id="893" source="ndtv" target="DelhiPolice" weight="2.0" />
+      <edge id="894" source="ndtv" target="Uppolice" weight="2.0" />
+      <edge id="895" source="TroluKejri" target="SirJadejaaaa" weight="1.0" />
+      <edge id="896" source="TroluKejri" target="Lazyfe1l0w" weight="1.0" />
+      <edge id="897" source="tariqal" target="JeffDSachs" weight="1.0" />
+      <edge id="898" source="AndrzejRysuje" target="gazeta_wyborcza" weight="24.0" />
+      <edge id="899" source="gazeta_wyborcza" target="FaktyTVN" weight="1.0" />
+      <edge id="900" source="gazeta_wyborcza" target="RadiowaTrojka" weight="1.0" />
+      <edge id="901" source="HusariaMKTG" target="mycitytree" weight="1.0" />
+      <edge id="902" source="PogodaMeteo" target="MeteoprognozaPL" weight="1.0" />
+      <edge id="903" source="PogodaMeteo" target="meteopomorze" weight="1.0" />
+      <edge id="904" source="MeteoprognozaPL" target="meteopomorze" weight="1.0" />
+      <edge id="905" source="MeteoprognozaPL" target="krakow_pl" weight="1.0" />
+      <edge id="906" source="MeteoprognozaPL" target="lovekrakow" weight="1.0" />
+      <edge id="907" source="a_dziedzic" target="DorotaNiecko" weight="1.0" />
+      <edge id="908" source="DorotaNiecko" target="TwarogMarcin" weight="1.0" />
+      <edge id="909" source="DorotaNiecko" target="PJedlecki" weight="1.0" />
+      <edge id="910" source="DorotaNiecko" target="MarekTwarog" weight="1.0" />
+      <edge id="911" source="DorotaNiecko" target="Grubiusz" weight="1.0" />
+      <edge id="912" source="TwarogMarcin" target="PJedlecki" weight="1.0" />
+      <edge id="913" source="TwarogMarcin" target="MarekTwarog" weight="1.0" />
+      <edge id="914" source="TwarogMarcin" target="Grubiusz" weight="1.0" />
+      <edge id="915" source="PJedlecki" target="MarekTwarog" weight="1.0" />
+      <edge id="916" source="PJedlecki" target="Grubiusz" weight="1.0" />
+      <edge id="917" source="MarekTwarog" target="Grubiusz" weight="1.0" />
+      <edge id="918" source="Jeetendradas4" target="JodhpurL" weight="1.0" />
+      <edge id="919" source="RafalWos" target="80gam_pl" weight="1.0" />
+      <edge id="920" source="MiastoZakopane" target="Mlekovita" weight="1.0" />
+      <edge id="921" source="MiastoZakopane" target="24tp_pl" weight="1.0" />
+      <edge id="922" source="Mlekovita" target="24tp_pl" weight="1.0" />
+      <edge id="923" source="FaktyTVN" target="RadiowaTrojka" weight="1.0" />
+      <edge id="924" source="Sosnowiecmiasto" target="CzeladzFajna" weight="1.0" />
+      <edge id="925" source="Sosnowiecmiasto" target="PowiatBedzinski" weight="1.0" />
+      <edge id="926" source="Sosnowiecmiasto" target="MariaSmietanka" weight="1.0" />
+      <edge id="927" source="CzeladzFajna" target="PowiatBedzinski" weight="1.0" />
+      <edge id="928" source="noman_env" target="GovtOfPunjab" weight="7.0" />
+      <edge id="929" source="GovtOfPunjab" target="fsahat" weight="1.0" />
+      <edge id="930" source="GovtOfPunjab" target="CMShehbaz" weight="1.0" />
+      <edge id="931" source="IndiaToday" target="Showbiz_IT" weight="1.0" />
+      <edge id="932" source="IndiaToday" target="aroonpurie" weight="1.0" />
+      <edge id="933" source="IndiaToday" target="ITGDsports" weight="1.0" />
+      <edge id="934" source="JagiellonskiUni" target="zielen_krakow" weight="1.0" />
+      <edge id="935" source="BiznesAlert" target="m_roszkowski" weight="2.0" />
+      <edge id="936" source="BiznesAlert" target="styszka" weight="2.0" />
+      <edge id="937" source="m_roszkowski" target="styszka" weight="2.0" />
+      <edge id="938" source="ZaglebAlarmSmog" target="Ciepiela_Darek" weight="3.0" />
+      <edge id="939" source="ZaglebAlarmSmog" target="SzymczykT" weight="2.0" />
+      <edge id="940" source="ZaglebAlarmSmog" target="matzaleski" weight="2.0" />
+      <edge id="941" source="ZaglebAlarmSmog" target="WyborczaSosno" weight="2.0" />
+      <edge id="942" source="ZaglebAlarmSmog" target="WMarczyk" weight="2.0" />
+      <edge id="943" source="Ciepiela_Darek" target="SzymczykT" weight="2.0" />
+      <edge id="944" source="Ciepiela_Darek" target="matzaleski" weight="2.0" />
+      <edge id="945" source="Ciepiela_Darek" target="WyborczaSosno" weight="2.0" />
+      <edge id="946" source="Ciepiela_Darek" target="WMarczyk" weight="2.0" />
+      <edge id="947" source="Ciepiela_Darek" target="kkarolczak" weight="1.0" />
+      <edge id="948" source="Ciepiela_Darek" target="mkaczerowski" weight="1.0" />
+      <edge id="949" source="Ciepiela_Darek" target="Vattenfall_De" weight="1.0" />
+      <edge id="950" source="Ciepiela_Darek" target="umkatowice" weight="1.0" />
+      <edge id="951" source="Ciepiela_Darek" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="952" source="Ciepiela_Darek" target="MarekJozefiak" weight="1.0" />
+      <edge id="953" source="SzymczykT" target="matzaleski" weight="2.0" />
+      <edge id="954" source="SzymczykT" target="WyborczaSosno" weight="2.0" />
+      <edge id="955" source="SzymczykT" target="WMarczyk" weight="2.0" />
+      <edge id="956" source="matzaleski" target="WyborczaSosno" weight="2.0" />
+      <edge id="957" source="matzaleski" target="WMarczyk" weight="2.0" />
+      <edge id="958" source="WyborczaSosno" target="WMarczyk" weight="2.0" />
+      <edge id="959" source="MoodyMotu" target="RomanaRaza" weight="1.0" />
+      <edge id="960" source="jayniecakes" target="angelcakephotos" weight="1.0" />
+      <edge id="961" source="kkarolczak" target="mkaczerowski" weight="1.0" />
+      <edge id="962" source="kkarolczak" target="Vattenfall_De" weight="1.0" />
+      <edge id="963" source="kkarolczak" target="umkatowice" weight="1.0" />
+      <edge id="964" source="kkarolczak" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="965" source="kkarolczak" target="MarekJozefiak" weight="1.0" />
+      <edge id="966" source="mkaczerowski" target="Vattenfall_De" weight="1.0" />
+      <edge id="967" source="mkaczerowski" target="umkatowice" weight="1.0" />
+      <edge id="968" source="mkaczerowski" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="969" source="mkaczerowski" target="MarekJozefiak" weight="1.0" />
+      <edge id="970" source="Vattenfall_De" target="umkatowice" weight="1.0" />
+      <edge id="971" source="Vattenfall_De" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="972" source="Vattenfall_De" target="MarekJozefiak" weight="1.0" />
+      <edge id="973" source="umkatowice" target="KrupaMarcinpl" weight="1.0" />
+      <edge id="974" source="umkatowice" target="MarekJozefiak" weight="1.0" />
+      <edge id="975" source="KrupaMarcinpl" target="MarekJozefiak" weight="1.0" />
+      <edge id="976" source="Ananddaas4" target="bahuparbalinahi" weight="1.0" />
+      <edge id="977" source="Ananddaas4" target="Pontifex" weight="1.0" />
+      <edge id="978" source="krakow_pl" target="lovekrakow" weight="1.0" />
+      <edge id="979" source="airtelindia" target="Airtel_Presence" weight="2.0" />
+      <edge id="980" source="Agari_Jestem" target="DMSPOLAND_1" weight="4.0" />
+      <edge id="981" source="scbansia2014" target="jaanebhido123" weight="1.0" />
+      <edge id="982" source="NabzTweet" target="CSEINDIA" weight="1.0" />
+      <edge id="983" source="NabzTweet" target="IndiaSpendAir" weight="1.0" />
+      <edge id="984" source="NabzTweet" target="sharmapooja000" weight="1.0" />
+      <edge id="985" source="NabzTweet" target="Open_AQ" weight="1.0" />
+      <edge id="986" source="CSEINDIA" target="IndiaSpendAir" weight="1.0" />
+      <edge id="987" source="CSEINDIA" target="sharmapooja000" weight="1.0" />
+      <edge id="988" source="CSEINDIA" target="MukerjeePolash" weight="1.0" />
+      <edge id="989" source="CSEINDIA" target="Harvard" weight="2.0" />
+      <edge id="990" source="CSEINDIA" target="down2earthindia" weight="1.0" />
+      <edge id="991" source="IndiaSpendAir" target="sharmapooja000" weight="1.0" />
+      <edge id="992" source="TgrPiemonte" target="TgrRai" weight="1.0" />
+      <edge id="993" source="PTVNewsOfficial" target="RadioPakistan" weight="1.0" />
+      <edge id="994" source="PTVNewsOfficial" target="UN" weight="1.0" />
+      <edge id="995" source="RadioPakistan" target="UN" weight="1.0" />
+      <edge id="996" source="jmpandera" target="ForumEnergii" weight="1.0" />
+      <edge id="997" source="the_mehar_singh" target="i_me_my5elf" weight="2.0" />
+      <edge id="998" source="AlifAilaan" target="mhzaman" weight="4.0" />
+      <edge id="999" source="Edinburgh_CC" target="ivebeeniced" weight="1.0" />
+      <edge id="1000" source="Edinburgh_CC" target="edinhelp" weight="1.0" />
+      <edge id="1001" source="Edinburgh_CC" target="edinburghpaper" weight="1.0" />
+      <edge id="1002" source="Edinburgh_CC" target="bobbyllew" weight="1.0" />
+      <edge id="1003" source="Edinburgh_CC" target="ChargePlaceScot" weight="1.0" />
+      <edge id="1004" source="Edinburgh_CC" target="EVA_Scotland" weight="1.0" />
+      <edge id="1005" source="Edinburgh_CC" target="transcotland" weight="1.0" />
+      <edge id="1006" source="ivebeeniced" target="edinhelp" weight="1.0" />
+      <edge id="1007" source="ivebeeniced" target="edinburghpaper" weight="1.0" />
+      <edge id="1008" source="ivebeeniced" target="bobbyllew" weight="1.0" />
+      <edge id="1009" source="ivebeeniced" target="ChargePlaceScot" weight="1.0" />
+      <edge id="1010" source="ivebeeniced" target="EVA_Scotland" weight="1.0" />
+      <edge id="1011" source="ivebeeniced" target="transcotland" weight="1.0" />
+      <edge id="1012" source="edinhelp" target="edinburghpaper" weight="1.0" />
+      <edge id="1013" source="edinhelp" target="bobbyllew" weight="1.0" />
+      <edge id="1014" source="edinhelp" target="ChargePlaceScot" weight="1.0" />
+      <edge id="1015" source="edinhelp" target="EVA_Scotland" weight="1.0" />
+      <edge id="1016" source="edinhelp" target="transcotland" weight="1.0" />
+      <edge id="1017" source="edinburghpaper" target="bobbyllew" weight="1.0" />
+      <edge id="1018" source="edinburghpaper" target="ChargePlaceScot" weight="1.0" />
+      <edge id="1019" source="edinburghpaper" target="EVA_Scotland" weight="1.0" />
+      <edge id="1020" source="edinburghpaper" target="transcotland" weight="1.0" />
+      <edge id="1021" source="bobbyllew" target="ChargePlaceScot" weight="1.0" />
+      <edge id="1022" source="bobbyllew" target="EVA_Scotland" weight="1.0" />
+      <edge id="1023" source="bobbyllew" target="transcotland" weight="1.0" />
+      <edge id="1024" source="ChargePlaceScot" target="EVA_Scotland" weight="1.0" />
+      <edge id="1025" source="ChargePlaceScot" target="transcotland" weight="1.0" />
+      <edge id="1026" source="EVA_Scotland" target="transcotland" weight="1.0" />
+      <edge id="1027" source="iAtulB" target="pankaj_ghadge" weight="1.0" />
+      <edge id="1028" source="fsahat" target="CMShehbaz" weight="1.0" />
+      <edge id="1029" source="Bazoom_" target="maltiq" weight="1.0" />
+      <edge id="1030" source="Bazoom_" target="IAmDavidYapII" weight="1.0" />
+      <edge id="1031" source="Bazoom_" target="ithrusthard" weight="1.0" />
+      <edge id="1032" source="Bazoom_" target="AttyKarenJimeno" weight="1.0" />
+      <edge id="1033" source="Bazoom_" target="kob0331" weight="1.0" />
+      <edge id="1034" source="Bazoom_" target="ericarreza" weight="1.0" />
+      <edge id="1035" source="Bazoom_" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1036" source="Bazoom_" target="Dutertenomics" weight="1.0" />
+      <edge id="1037" source="maltiq" target="IAmDavidYapII" weight="1.0" />
+      <edge id="1038" source="maltiq" target="ithrusthard" weight="1.0" />
+      <edge id="1039" source="maltiq" target="AttyKarenJimeno" weight="1.0" />
+      <edge id="1040" source="maltiq" target="kob0331" weight="1.0" />
+      <edge id="1041" source="maltiq" target="ericarreza" weight="1.0" />
+      <edge id="1042" source="maltiq" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1043" source="maltiq" target="Dutertenomics" weight="1.0" />
+      <edge id="1044" source="IAmDavidYapII" target="ithrusthard" weight="1.0" />
+      <edge id="1045" source="IAmDavidYapII" target="AttyKarenJimeno" weight="1.0" />
+      <edge id="1046" source="IAmDavidYapII" target="kob0331" weight="1.0" />
+      <edge id="1047" source="IAmDavidYapII" target="ericarreza" weight="1.0" />
+      <edge id="1048" source="IAmDavidYapII" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1049" source="IAmDavidYapII" target="Dutertenomics" weight="1.0" />
+      <edge id="1050" source="ithrusthard" target="AttyKarenJimeno" weight="1.0" />
+      <edge id="1051" source="ithrusthard" target="kob0331" weight="1.0" />
+      <edge id="1052" source="ithrusthard" target="ericarreza" weight="1.0" />
+      <edge id="1053" source="ithrusthard" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1054" source="ithrusthard" target="Dutertenomics" weight="1.0" />
+      <edge id="1055" source="AttyKarenJimeno" target="kob0331" weight="1.0" />
+      <edge id="1056" source="AttyKarenJimeno" target="ericarreza" weight="1.0" />
+      <edge id="1057" source="AttyKarenJimeno" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1058" source="AttyKarenJimeno" target="Dutertenomics" weight="1.0" />
+      <edge id="1059" source="kob0331" target="ericarreza" weight="1.0" />
+      <edge id="1060" source="kob0331" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1061" source="kob0331" target="Dutertenomics" weight="1.0" />
+      <edge id="1062" source="ericarreza" target="krakenzilla_pow" weight="1.0" />
+      <edge id="1063" source="ericarreza" target="Dutertenomics" weight="1.0" />
+      <edge id="1064" source="krakenzilla_pow" target="Dutertenomics" weight="1.0" />
+      <edge id="1065" source="MichalakJerzy" target="Dolny_Slask" weight="1.0" />
+      <edge id="1066" source="LombardiaOnLine" target="arpalombardia" weight="1.0" />
+      <edge id="1067" source="EBienkowskaEU" target="Smogathon" weight="3.0" />
+      <edge id="1068" source="janusz_walczak" target="MiastoGdynia" weight="1.0" />
+      <edge id="1069" source="janusz_walczak" target="MarWojRP" weight="1.0" />
+      <edge id="1070" source="MiastoGdynia" target="MarWojRP" weight="1.0" />
+      <edge id="1071" source="journokanwar" target="arunjaitley" weight="1.0" />
+      <edge id="1072" source="arunjaitley" target="ManushiChhillar" weight="1.0" />
+      <edge id="1073" source="arunjaitley" target="aamir_khan" weight="1.0" />
+      <edge id="1074" source="arunjaitley" target="AmitShah" weight="1.0" />
+      <edge id="1075" source="arunjaitley" target="anandmahindra" weight="1.0" />
+      <edge id="1076" source="arunjaitley" target="azimpremjiunive" weight="1.0" />
+      <edge id="1077" source="arunjaitley" target="kiranshaw" weight="1.0" />
+      <edge id="1078" source="sandhyatimes4u" target="PreetyAgarwaal" weight="1.0" />
+      <edge id="1079" source="sandhyatimes4u" target="rameshwar_ST" weight="1.0" />
+      <edge id="1080" source="PreetyAgarwaal" target="rameshwar_ST" weight="1.0" />
+      <edge id="1081" source="SmokSmogbot" target="RadioGdansk" weight="1.0" />
+      <edge id="1082" source="VelinoCampania" target="NotizieFrance" weight="1.0" />
+      <edge id="1083" source="jksmith34" target="cleanairasia" weight="1.0" />
+      <edge id="1084" source="jksmith34" target="vikranttongad" weight="1.0" />
+      <edge id="1085" source="jksmith34" target="BhushanTuladhar" weight="1.0" />
+      <edge id="1086" source="cleanairasia" target="vikranttongad" weight="2.0" />
+      <edge id="1087" source="cleanairasia" target="BhushanTuladhar" weight="1.0" />
+      <edge id="1088" source="vikranttongad" target="BhushanTuladhar" weight="1.0" />
+      <edge id="1089" source="sumeramunir1" target="dimpy1998" weight="1.0" />
+      <edge id="1090" source="sumeramunir1" target="BiggBossNewz" weight="1.0" />
+      <edge id="1091" source="sumeramunir1" target="i_priyanksharma" weight="1.0" />
+      <edge id="1092" source="sumeramunir1" target="eyehinakhan" weight="1.0" />
+      <edge id="1093" source="dimpy1998" target="BiggBossNewz" weight="1.0" />
+      <edge id="1094" source="dimpy1998" target="i_priyanksharma" weight="1.0" />
+      <edge id="1095" source="dimpy1998" target="eyehinakhan" weight="1.0" />
+      <edge id="1096" source="BiggBossNewz" target="i_priyanksharma" weight="1.0" />
+      <edge id="1097" source="BiggBossNewz" target="eyehinakhan" weight="1.0" />
+      <edge id="1098" source="i_priyanksharma" target="eyehinakhan" weight="1.0" />
+      <edge id="1099" source="eyehinakhan" target="iamluvtyagi" weight="1.0" />
+      <edge id="1100" source="LtGovDelhi" target="IPSMadhurVerma" weight="1.0" />
+      <edge id="1101" source="LtGovDelhi" target="kgahlot" weight="1.0" />
+      <edge id="1102" source="LtGovDelhi" target="Gupta_vijender" weight="1.0" />
+      <edge id="1103" source="LtGovDelhi" target="DineshKrChauha" weight="3.0" />
+      <edge id="1104" source="LtGovDelhi" target="PMO_India" weight="3.0" />
+      <edge id="1105" source="LtGovDelhi" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="1106" source="LtGovDelhi" target="jashan74033963" weight="1.0" />
+      <edge id="1107" source="LtGovDelhi" target="KapilMishraAAP" weight="2.0" />
+      <edge id="1108" source="LtGovDelhi" target="mssirsa" weight="2.0" />
+      <edge id="1109" source="IPSMadhurVerma" target="kgahlot" weight="1.0" />
+      <edge id="1110" source="kgahlot" target="radiocityindia" weight="2.0" />
+      <edge id="1111" source="kgahlot" target="GINNIEMAHAJAN" weight="3.0" />
+      <edge id="1112" source="FollowCII" target="AgriGoI" weight="6.0" />
+      <edge id="1113" source="ESPNcricinfo" target="RaviShastriOfc" weight="2.0" />
+      <edge id="1114" source="ESPNcricinfo" target="ICC" weight="1.0" />
+      <edge id="1115" source="ESPNcricinfo" target="BBC_HaveYourSay" weight="1.0" />
+      <edge id="1116" source="ESPNcricinfo" target="ESPNIndia" weight="1.0" />
+      <edge id="1117" source="RaviShastriOfc" target="klrahul11" weight="1.0" />
+      <edge id="1118" source="god_mafia" target="tejasarcasm" weight="1.0" />
+      <edge id="1119" source="AamAadmiParty" target="AAPNews" weight="2.0" />
+      <edge id="1120" source="AamAadmiParty" target="AapKaGopalRai" weight="2.0" />
+      <edge id="1121" source="AamAadmiParty" target="msisodia" weight="2.0" />
+      <edge id="1122" source="AamAadmiParty" target="BJP4Delhi" weight="3.0" />
+      <edge id="1123" source="AamAadmiParty" target="Hemant554" weight="1.0" />
+      <edge id="1124" source="AamAadmiParty" target="abpnewshindi" weight="1.0" />
+      <edge id="1125" source="AamAadmiParty" target="ICC" weight="1.0" />
+      <edge id="1126" source="AamAadmiParty" target="ayeshasood" weight="1.0" />
+      <edge id="1127" source="AamAadmiParty" target="NewsX" weight="4.0" />
+      <edge id="1128" source="AamAadmiParty" target="AAP_Kerala" weight="1.0" />
+      <edge id="1129" source="AamAadmiParty" target="ChamSumanapala" weight="1.0" />
+      <edge id="1130" source="AAPNews" target="AapKaGopalRai" weight="2.0" />
+      <edge id="1131" source="AAPNews" target="msisodia" weight="2.0" />
+      <edge id="1132" source="AapKaGopalRai" target="msisodia" weight="2.0" />
+      <edge id="1133" source="msisodia" target="batrakartikeya" weight="2.0" />
+      <edge id="1134" source="msisodia" target="sunitanar" weight="3.0" />
+      <edge id="1135" source="msisodia" target="bahardutt" weight="3.0" />
+      <edge id="1136" source="msisodia" target="i_manoj_" weight="1.0" />
+      <edge id="1137" source="msisodia" target="GalliGalliSim" weight="2.0" />
+      <edge id="1138" source="msisodia" target="an_a_nd" weight="1.0" />
+      <edge id="1139" source="3BXigE5PXT3PTTO" target="DassRavinder2" weight="12.0" />
+      <edge id="1140" source="mssirsa" target="jashan74033963" weight="1.0" />
+      <edge id="1141" source="mssirsa" target="KapilMishraAAP" weight="2.0" />
+      <edge id="1142" source="DelhiDaredevils" target="WeAreTrivandrum" weight="2.0" />
+      <edge id="1143" source="DelhiDaredevils" target="TrivandrumIndia" weight="2.0" />
+      <edge id="1144" source="DelhiDaredevils" target="smarttrivandrum" weight="2.0" />
+      <edge id="1145" source="WeAreTrivandrum" target="TrivandrumIndia" weight="2.0" />
+      <edge id="1146" source="WeAreTrivandrum" target="smarttrivandrum" weight="2.0" />
+      <edge id="1147" source="TrivandrumIndia" target="smarttrivandrum" weight="2.0" />
+      <edge id="1148" source="BJP4Delhi" target="BJPInNews" weight="1.0" />
+      <edge id="1149" source="BJP4Delhi" target="VijayGoelBJP" weight="1.0" />
+      <edge id="1150" source="manukumarjain" target="XiaomiIndia" weight="1.0" />
+      <edge id="1151" source="manukumarjain" target="BGRIndia" weight="1.0" />
+      <edge id="1152" source="manukumarjain" target="nashpd" weight="1.0" />
+      <edge id="1153" source="XiaomiIndia" target="BGRIndia" weight="1.0" />
+      <edge id="1154" source="XiaomiIndia" target="nashpd" weight="1.0" />
+      <edge id="1155" source="BGRIndia" target="nashpd" weight="1.0" />
+      <edge id="1156" source="KherajDas" target="rashtrapatibhvn" weight="11.0" />
+      <edge id="1157" source="ICC" target="daniel86cricket" weight="1.0" />
+      <edge id="1158" source="ICC" target="alilillah" weight="2.0" />
+      <edge id="1159" source="ICC" target="HTSportsNews" weight="2.0" />
+      <edge id="1160" source="ICC" target="BBC_HaveYourSay" weight="1.0" />
+      <edge id="1161" source="ICC" target="ICCLive" weight="1.0" />
+      <edge id="1162" source="ICC" target="BrokenCricket" weight="1.0" />
+      <edge id="1163" source="ICC" target="ICCMediaComms" weight="1.0" />
+      <edge id="1164" source="ICC" target="cricketaakash" weight="1.0" />
+      <edge id="1165" source="ICC" target="cricketsrilanka" weight="2.0" />
+      <edge id="1166" source="ICC" target="dakshitha_dias" weight="1.0" />
+      <edge id="1167" source="ICC" target="leishembaa" weight="2.0" />
+      <edge id="1168" source="Paras_SEO" target="HNLSYSTEMS" weight="3.0" />
+      <edge id="1169" source="ArulAchela" target="krishoffl" weight="1.0" />
+      <edge id="1170" source="firstpost" target="MANJULtoons" weight="39.0" />
+      <edge id="1171" source="UNICEF" target="Alexwhi" weight="2.0" />
+      <edge id="1172" source="misskaul" target="udayfoundation" weight="2.0" />
+      <edge id="1173" source="radiocityindia" target="GINNIEMAHAJAN" weight="2.0" />
+      <edge id="1174" source="CharithaRajaka1" target="Satyam_raj1" weight="1.0" />
+      <edge id="1175" source="daniel86cricket" target="alilillah" weight="1.0" />
+      <edge id="1176" source="daniel86cricket" target="ajinkyarahane88" weight="2.0" />
+      <edge id="1177" source="daniel86cricket" target="cricketwallah" weight="2.0" />
+      <edge id="1178" source="daniel86cricket" target="RoshanCricket" weight="2.0" />
+      <edge id="1179" source="daniel86cricket" target="om_mehta" weight="2.0" />
+      <edge id="1180" source="being2jitendra" target="OfficeOfRG" weight="2.0" />
+      <edge id="1181" source="OfficeOfRG" target="banarsi_" weight="4.0" />
+      <edge id="1182" source="tcrpindia" target="ClimateReality" weight="1.0" />
+      <edge id="1183" source="tcrpindia" target="UNDPClimate" weight="1.0" />
+      <edge id="1184" source="tcrpindia" target="ClimateProject" weight="1.0" />
+      <edge id="1185" source="tcrpindia" target="WorldBankIndia" weight="1.0" />
+      <edge id="1186" source="ClimateReality" target="UNDPClimate" weight="1.0" />
+      <edge id="1187" source="ClimateReality" target="ClimateProject" weight="1.0" />
+      <edge id="1188" source="ClimateReality" target="WorldBankIndia" weight="1.0" />
+      <edge id="1189" source="UNDPClimate" target="ClimateProject" weight="1.0" />
+      <edge id="1190" source="UNDPClimate" target="WorldBankIndia" weight="1.0" />
+      <edge id="1191" source="ClimateProject" target="WorldBankIndia" weight="1.0" />
+      <edge id="1192" source="DelhiDynamos" target="JamshedpurFC" weight="1.0" />
+      <edge id="1193" source="DelhiDynamos" target="IndSuperLeague" weight="1.0" />
+      <edge id="1194" source="JamshedpurFC" target="IndSuperLeague" weight="1.0" />
+      <edge id="1195" source="IndSuperLeague" target="toisports" weight="2.0" />
+      <edge id="1196" source="thetoonguy" target="Ink_BL" weight="4.0" />
+      <edge id="1197" source="milindC2405" target="hindujagrutiorg" weight="5.0" />
+      <edge id="1198" source="milindC2405" target="Milind_MMD" weight="5.0" />
+      <edge id="1199" source="hindujagrutiorg" target="Milind_MMD" weight="6.0" />
+      <edge id="1200" source="ashwinravi99" target="SriniMama16" weight="1.0" />
+      <edge id="1201" source="SriniMama16" target="thushy03" weight="1.0" />
+      <edge id="1202" source="htTweets" target="electivenow" weight="1.0" />
+      <edge id="1203" source="htTweets" target="_YogendraYadav" weight="1.0" />
+      <edge id="1204" source="htTweets" target="pbhushan1" weight="1.0" />
+      <edge id="1205" source="htTweets" target="jeelanikash" weight="1.0" />
+      <edge id="1206" source="htTweets" target="PTI_News" weight="1.0" />
+      <edge id="1207" source="htTweets" target="Kidsstoppress" weight="1.0" />
+      <edge id="1208" source="htTweets" target="sanchx" weight="1.0" />
+      <edge id="1209" source="htTweets" target="UNICEFIndia" weight="1.0" />
+      <edge id="1210" source="htTweets" target="ShashiTharoor" weight="1.0" />
+      <edge id="1211" source="htTweets" target="drrajatchauhan" weight="4.0" />
+      <edge id="1212" source="htTweets" target="RTiwari_HH" weight="1.0" />
+      <edge id="1213" source="sachin_rt" target="rima_barua" weight="2.0" />
+      <edge id="1214" source="KhabarNwi" target="sharujan4" weight="3.0" />
+      <edge id="1215" source="KhabarNwi" target="SLCricketLive" weight="3.0" />
+      <edge id="1216" source="sharujan4" target="SLCricketLive" weight="3.0" />
+      <edge id="1217" source="erin_klassen" target="ziyatong" weight="1.0" />
+      <edge id="1218" source="Brikesh" target="Jhatkaa" weight="1.0" />
+      <edge id="1219" source="Brikesh" target="DelhiBreathe" weight="1.0" />
+      <edge id="1220" source="Brikesh" target="greenpeaceindia" weight="1.0" />
+      <edge id="1221" source="Jhatkaa" target="DelhiBreathe" weight="1.0" />
+      <edge id="1222" source="Jhatkaa" target="greenpeaceindia" weight="1.0" />
+      <edge id="1223" source="DelhiBreathe" target="greenpeaceindia" weight="1.0" />
+      <edge id="1224" source="nitintotewarMT" target="mataonline" weight="4.0" />
+      <edge id="1225" source="KanchanBhatta11" target="dtptraffic" weight="3.0" />
+      <edge id="1226" source="slcricketclub" target="ArjunaRanatunga" weight="1.0" />
+      <edge id="1227" source="Gupta_vijender" target="balendushekhar9" weight="2.0" />
+      <edge id="1228" source="Gupta_vijender" target="MukerjeePolash" weight="2.0" />
+      <edge id="1229" source="Gupta_vijender" target="ZeeBusiness" weight="1.0" />
+      <edge id="1230" source="Uber_Support" target="Uber" weight="2.0" />
+      <edge id="1231" source="Uber_Support" target="UberINSupport" weight="1.0" />
+      <edge id="1232" source="Uber" target="UberINSupport" weight="1.0" />
+      <edge id="1233" source="one_by_two" target="THEOCEANKING" weight="1.0" />
+      <edge id="1234" source="capt_amarinder" target="mfuloria" weight="1.0" />
+      <edge id="1235" source="capt_amarinder" target="MunCorpGurugram" weight="1.0" />
+      <edge id="1236" source="AashishKhetan" target="UPGovt" weight="2.0" />
+      <edge id="1237" source="MukerjeePolash" target="Harvard" weight="1.0" />
+      <edge id="1238" source="MukerjeePolash" target="balendushekhar9" weight="2.0" />
+      <edge id="1239" source="MukerjeePolash" target="ZeeBusiness" weight="1.0" />
+      <edge id="1240" source="HardeepSPuri" target="MoHUA_India" weight="1.0" />
+      <edge id="1241" source="HardeepSPuri" target="Saurabh_MLAgk" weight="1.0" />
+      <edge id="1242" source="HardeepSPuri" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="1243" source="HardeepSPuri" target="KTRTRS" weight="1.0" />
+      <edge id="1244" source="MoHUA_India" target="Saurabh_MLAgk" weight="1.0" />
+      <edge id="1245" source="MoHUA_India" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="1246" source="Saurabh_MLAgk" target="MoHFW_INDIA" weight="1.0" />
+      <edge id="1247" source="dilipkpandey" target="KritiDr" weight="1.0" />
+      <edge id="1248" source="sandymbbs" target="Indiametdept" weight="1.0" />
+      <edge id="1249" source="balendushekhar9" target="ZeeBusiness" weight="1.0" />
+      <edge id="1250" source="electivenow" target="_YogendraYadav" weight="1.0" />
+      <edge id="1251" source="electivenow" target="pbhushan1" weight="1.0" />
+      <edge id="1252" source="electivenow" target="jeelanikash" weight="1.0" />
+      <edge id="1253" source="_YogendraYadav" target="pbhushan1" weight="1.0" />
+      <edge id="1254" source="_YogendraYadav" target="jeelanikash" weight="1.0" />
+      <edge id="1255" source="pbhushan1" target="jeelanikash" weight="1.0" />
+      <edge id="1256" source="ZeeBusiness" target="MirrorNow" weight="1.0" />
+      <edge id="1257" source="ZeeBusiness" target="anilvijminister" weight="1.0" />
+      <edge id="1258" source="ZeeBusiness" target="DDNewsLive" weight="1.0" />
+      <edge id="1259" source="DineshKrChauha" target="PMO_India" weight="3.0" />
+      <edge id="1260" source="WisdenIndia" target="shamyad" weight="1.0" />
+      <edge id="1261" source="mediacrooks" target="Ram_Guha" weight="1.0" />
+      <edge id="1262" source="imbaibhav_AM22" target="ArmaanMalik22" weight="2.0" />
+      <edge id="1263" source="imbaibhav_AM22" target="AmaalMallik" weight="2.0" />
+      <edge id="1264" source="ArmaanMalik22" target="AmaalMallik" weight="2.0" />
+      <edge id="1265" source="BD192937012" target="RailMinIndia" weight="3.0" />
+      <edge id="1266" source="ajinkyarahane88" target="cricketwallah" weight="2.0" />
+      <edge id="1267" source="ajinkyarahane88" target="RoshanCricket" weight="2.0" />
+      <edge id="1268" source="cricketwallah" target="RoshanCricket" weight="2.0" />
+      <edge id="1269" source="cricketwallah" target="abhishek9971" weight="1.0" />
+      <edge id="1270" source="DulanAsiri" target="SrilankanCrick" weight="1.0" />
+      <edge id="1271" source="DulanAsiri" target="Indiancrickteam" weight="1.0" />
+      <edge id="1272" source="SrilankanCrick" target="Indiancrickteam" weight="1.0" />
+      <edge id="1273" source="sumzy27" target="jshetty007" weight="1.0" />
+      <edge id="1274" source="Suhe759" target="LJodhpur" weight="1.0" />
+      <edge id="1275" source="HKrishann" target="amirkhan" weight="1.0" />
+      <edge id="1276" source="CSIR_IND" target="ndmaindia" weight="1.0" />
+      <edge id="1277" source="CricketNDTV" target="Sports_NDTV" weight="1.0" />
+      <edge id="1278" source="CricketNDTV" target="SDhawan25" weight="9.0" />
+      <edge id="1279" source="Asli_Jacqueline" target="cricketaakash" weight="1.0" />
+      <edge id="1280" source="cricketsrilanka" target="leishembaa" weight="1.0" />
+      <edge id="1281" source="thetilaksharma" target="inshorts" weight="1.0" />
+      <edge id="1282" source="inshorts" target="PSamratSakal" weight="1.0" />
+      <edge id="1283" source="KrunalvV" target="sudarshan2215" weight="1.0" />
+      <edge id="1284" source="KrunalvV" target="anirban1970" weight="1.0" />
+      <edge id="1285" source="sudarshan2215" target="anirban1970" weight="2.0" />
+      <edge id="1286" source="PTI_News" target="TheOEDP" weight="2.0" />
+      <edge id="1287" source="PTI_News" target="indiaopendata" weight="2.0" />
+      <edge id="1288" source="PTI_News" target="IndianExpress" weight="3.0" />
+      <edge id="1289" source="news24tvchannel" target="manakgupta" weight="1.0" />
+      <edge id="1290" source="GEAG_India" target="ErikSolheim" weight="1.0" />
+      <edge id="1291" source="GEAG_India" target="UNEP" weight="1.0" />
+      <edge id="1292" source="ErikSolheim" target="UNEP" weight="2.0" />
+      <edge id="1293" source="ErikSolheim" target="HMolinValdes" weight="1.0" />
+      <edge id="1294" source="ErikSolheim" target="Paytm" weight="1.0" />
+      <edge id="1295" source="ErikSolheim" target="vijayshekhar" weight="1.0" />
+      <edge id="1296" source="ErikSolheim" target="CCACoalition" weight="1.0" />
+      <edge id="1297" source="UNEP" target="HMolinValdes" weight="1.0" />
+      <edge id="1298" source="UNEP" target="Paytm" weight="1.0" />
+      <edge id="1299" source="UNEP" target="vijayshekhar" weight="2.0" />
+      <edge id="1300" source="UNEP" target="CCACoalition" weight="1.0" />
+      <edge id="1301" source="UNEP" target="NameFieldmt" weight="1.0" />
+      <edge id="1302" source="sachkaaaina" target="BBCHindi" weight="1.0" />
+      <edge id="1303" source="cricketaakash" target="BrokenCricket" weight="1.0" />
+      <edge id="1304" source="cricketaakash" target="ICCMediaComms" weight="1.0" />
+      <edge id="1305" source="cricketaakash" target="vikrantgupta73" weight="1.0" />
+      <edge id="1306" source="bahuparbalinahi" target="Pontifex" weight="1.0" />
+      <edge id="1307" source="worldexegete" target="KarthikJannu" weight="1.0" />
+      <edge id="1308" source="fakingnews" target="hindifakingnews" weight="1.0" />
+      <edge id="1309" source="Paytm" target="HMolinValdes" weight="1.0" />
+      <edge id="1310" source="Paytm" target="vijayshekhar" weight="1.0" />
+      <edge id="1311" source="Paytm" target="CCACoalition" weight="1.0" />
+      <edge id="1312" source="batrakartikeya" target="sunitanar" weight="2.0" />
+      <edge id="1313" source="batrakartikeya" target="bahardutt" weight="2.0" />
+      <edge id="1314" source="sunitanar" target="bahardutt" weight="3.0" />
+      <edge id="1315" source="sunitanar" target="pmo" weight="1.0" />
+      <edge id="1316" source="sunitanar" target="talktosanjai" weight="3.0" />
+      <edge id="1317" source="Devvratmalav" target="YogendraMalav8" weight="1.0" />
+      <edge id="1318" source="BrokenCricket" target="ICCMediaComms" weight="1.0" />
+      <edge id="1319" source="DEArdeshir" target="bbctms" weight="1.0" />
+      <edge id="1320" source="ALL_IN_ONE_MAN" target="coolfunnytshirt" weight="1.0" />
+      <edge id="1321" source="jashan74033963" target="KapilMishraAAP" weight="1.0" />
+      <edge id="1322" source="KapilMishraAAP" target="ashish_tiwtter" weight="1.0" />
+      <edge id="1323" source="nktrawat" target="ArmyOfMSDians" weight="1.0" />
+      <edge id="1324" source="nktrawat" target="I_mVKohli" weight="1.0" />
+      <edge id="1325" source="nktrawat" target="cheteshwar1" weight="1.0" />
+      <edge id="1326" source="ArmyOfMSDians" target="I_mVKohli" weight="1.0" />
+      <edge id="1327" source="ArmyOfMSDians" target="cheteshwar1" weight="1.0" />
+      <edge id="1328" source="I_mVKohli" target="cheteshwar1" weight="1.0" />
+      <edge id="1329" source="gulu1959" target="markbutcher72" weight="1.0" />
+      <edge id="1330" source="gulu1959" target="gauravkalra75" weight="1.0" />
+      <edge id="1331" source="markbutcher72" target="gauravkalra75" weight="1.0" />
+      <edge id="1332" source="ZeeNews" target="Upganlawar" weight="2.0" />
+      <edge id="1333" source="ZeeNews" target="TimesNow" weight="2.0" />
+      <edge id="1334" source="ZeeNews" target="abpnewstv" weight="2.0" />
+      <edge id="1335" source="ShrimantSakal" target="eSakalUpdate" weight="1.0" />
+      <edge id="1336" source="bharat_h_gandhi" target="ap_pune" weight="2.0" />
+      <edge id="1337" source="R0SETINTED" target="shobha_kapoor" weight="1.0" />
+      <edge id="1338" source="R0SETINTED" target="NikitaSerrao" weight="1.0" />
+      <edge id="1339" source="R0SETINTED" target="Ghazal_AAT" weight="1.0" />
+      <edge id="1340" source="R0SETINTED" target="rs_sesame" weight="1.0" />
+      <edge id="1341" source="R0SETINTED" target="SesameChamki" weight="1.0" />
+      <edge id="1342" source="shobha_kapoor" target="NikitaSerrao" weight="1.0" />
+      <edge id="1343" source="shobha_kapoor" target="Ghazal_AAT" weight="1.0" />
+      <edge id="1344" source="shobha_kapoor" target="rs_sesame" weight="1.0" />
+      <edge id="1345" source="NikitaSerrao" target="Ghazal_AAT" weight="1.0" />
+      <edge id="1346" source="NikitaSerrao" target="rs_sesame" weight="1.0" />
+      <edge id="1347" source="Ghazal_AAT" target="rs_sesame" weight="1.0" />
+      <edge id="1348" source="ideatingenergy" target="MontekSinghPC" weight="1.0" />
+      <edge id="1349" source="dpradhanbjp" target="PIB_India" weight="2.0" />
+      <edge id="1350" source="dpradhanbjp" target="SecretaryPerry" weight="2.0" />
+      <edge id="1351" source="PIB_India" target="SecretaryPerry" weight="1.0" />
+      <edge id="1352" source="nitin_gadkari" target="CPDelhi" weight="1.0" />
+      <edge id="1353" source="nitin_gadkari" target="pwddelhi" weight="1.0" />
+      <edge id="1354" source="AAgamjot" target="TimesNow" weight="1.0" />
+      <edge id="1355" source="TimesNow" target="Tehelka" weight="2.0" />
+      <edge id="1356" source="TimesNow" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="1357" source="TimesNow" target="BDUTT" weight="2.0" />
+      <edge id="1358" source="TimesNow" target="Upganlawar" weight="2.0" />
+      <edge id="1359" source="TimesNow" target="abpnewstv" weight="2.0" />
+      <edge id="1360" source="BJPInNews" target="VijayGoelBJP" weight="1.0" />
+      <edge id="1361" source="Tehelka" target="PrannoyRoyNDTV" weight="2.0" />
+      <edge id="1362" source="Tehelka" target="BDUTT" weight="2.0" />
+      <edge id="1363" source="PrannoyRoyNDTV" target="BDUTT" weight="2.0" />
+      <edge id="1364" source="ManushiChhillar" target="aamir_khan" weight="1.0" />
+      <edge id="1365" source="ManushiChhillar" target="AmitShah" weight="1.0" />
+      <edge id="1366" source="ManushiChhillar" target="anandmahindra" weight="1.0" />
+      <edge id="1367" source="ManushiChhillar" target="azimpremjiunive" weight="1.0" />
+      <edge id="1368" source="ManushiChhillar" target="kiranshaw" weight="1.0" />
+      <edge id="1369" source="aamir_khan" target="AmitShah" weight="1.0" />
+      <edge id="1370" source="aamir_khan" target="anandmahindra" weight="1.0" />
+      <edge id="1371" source="aamir_khan" target="azimpremjiunive" weight="1.0" />
+      <edge id="1372" source="aamir_khan" target="kiranshaw" weight="1.0" />
+      <edge id="1373" source="AmitShah" target="anandmahindra" weight="1.0" />
+      <edge id="1374" source="AmitShah" target="azimpremjiunive" weight="1.0" />
+      <edge id="1375" source="AmitShah" target="kiranshaw" weight="1.0" />
+      <edge id="1376" source="anandmahindra" target="azimpremjiunive" weight="1.0" />
+      <edge id="1377" source="anandmahindra" target="kiranshaw" weight="1.0" />
+      <edge id="1378" source="azimpremjiunive" target="kiranshaw" weight="1.0" />
+      <edge id="1379" source="TheTrueBhartiya" target="JoblessJack" weight="1.0" />
+      <edge id="1380" source="CPPuneCity" target="PuneCityPolice" weight="1.0" />
+      <edge id="1381" source="CPPuneCity" target="DGPMaharashtra" weight="1.0" />
+      <edge id="1382" source="CPPuneCity" target="MahaDGIPR" weight="1.0" />
+      <edge id="1383" source="CPPuneCity" target="punekarnews" weight="1.0" />
+      <edge id="1384" source="CPPuneCity" target="punekar" weight="1.0" />
+      <edge id="1385" source="CPPuneCity" target="Pune24x7" weight="1.0" />
+      <edge id="1386" source="CPPuneCity" target="punedaily" weight="1.0" />
+      <edge id="1387" source="CPPuneCity" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1388" source="PuneCityPolice" target="DGPMaharashtra" weight="1.0" />
+      <edge id="1389" source="PuneCityPolice" target="MahaDGIPR" weight="1.0" />
+      <edge id="1390" source="PuneCityPolice" target="punekarnews" weight="1.0" />
+      <edge id="1391" source="PuneCityPolice" target="punekar" weight="1.0" />
+      <edge id="1392" source="PuneCityPolice" target="Pune24x7" weight="1.0" />
+      <edge id="1393" source="PuneCityPolice" target="punedaily" weight="1.0" />
+      <edge id="1394" source="PuneCityPolice" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1395" source="DGPMaharashtra" target="MahaDGIPR" weight="1.0" />
+      <edge id="1396" source="DGPMaharashtra" target="punekarnews" weight="1.0" />
+      <edge id="1397" source="DGPMaharashtra" target="punekar" weight="1.0" />
+      <edge id="1398" source="DGPMaharashtra" target="Pune24x7" weight="1.0" />
+      <edge id="1399" source="DGPMaharashtra" target="punedaily" weight="1.0" />
+      <edge id="1400" source="DGPMaharashtra" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1401" source="MahaDGIPR" target="punekarnews" weight="1.0" />
+      <edge id="1402" source="MahaDGIPR" target="punekar" weight="1.0" />
+      <edge id="1403" source="MahaDGIPR" target="Pune24x7" weight="1.0" />
+      <edge id="1404" source="MahaDGIPR" target="punedaily" weight="1.0" />
+      <edge id="1405" source="MahaDGIPR" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1406" source="punekarnews" target="punekar" weight="1.0" />
+      <edge id="1407" source="punekarnews" target="Pune24x7" weight="1.0" />
+      <edge id="1408" source="punekarnews" target="punedaily" weight="1.0" />
+      <edge id="1409" source="punekarnews" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1410" source="punekar" target="Pune24x7" weight="1.0" />
+      <edge id="1411" source="punekar" target="punedaily" weight="1.0" />
+      <edge id="1412" source="punekar" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1413" source="Pune24x7" target="punedaily" weight="1.0" />
+      <edge id="1414" source="Pune24x7" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1415" source="punedaily" target="PuneTimesOnline" weight="1.0" />
+      <edge id="1416" source="nistula" target="GargiRawat" weight="1.0" />
+      <edge id="1417" source="nistula" target="RidlrDEL" weight="1.0" />
+      <edge id="1418" source="IndiaSports" target="YASMinistry" weight="1.0" />
+      <edge id="1419" source="IntoAbhi" target="Samsung_IN" weight="1.0" />
+      <edge id="1420" source="ChSatbirSingh" target="INCDelhi" weight="1.0" />
+      <edge id="1421" source="INCDelhi" target="ajaymaken" weight="1.0" />
+      <edge id="1422" source="ashkhann" target="AshiQuotes" weight="1.0" />
+      <edge id="1423" source="AirPollSurrey" target="iSCAPEproject" weight="1.0" />
+      <edge id="1424" source="AirPollSurrey" target="Smartiesproject" weight="1.0" />
+      <edge id="1425" source="AirPollSurrey" target="ClairCity" weight="1.0" />
+      <edge id="1426" source="AirPollSurrey" target="pk_shishodia" weight="1.0" />
+      <edge id="1427" source="iSCAPEproject" target="Smartiesproject" weight="2.0" />
+      <edge id="1428" source="iSCAPEproject" target="ClairCity" weight="2.0" />
+      <edge id="1429" source="iSCAPEproject" target="pk_shishodia" weight="2.0" />
+      <edge id="1430" source="Smartiesproject" target="ClairCity" weight="2.0" />
+      <edge id="1431" source="Smartiesproject" target="pk_shishodia" weight="2.0" />
+      <edge id="1432" source="ClairCity" target="pk_shishodia" weight="2.0" />
+      <edge id="1433" source="wef" target="WSJ" weight="1.0" />
+      <edge id="1434" source="wef" target="RidgeOnSunday" weight="1.0" />
+      <edge id="1435" source="wef" target="Number10gov" weight="1.0" />
+      <edge id="1436" source="Upganlawar" target="abpnewstv" weight="2.0" />
+      <edge id="1437" source="TanuPandey2" target="obgynvidalluz4" weight="1.0" />
+      <edge id="1438" source="TanuPandey2" target="SureshUmang" weight="1.0" />
+      <edge id="1439" source="TanuPandey2" target="DDNational" weight="1.0" />
+      <edge id="1440" source="TanuPandey2" target="BeboKitkat" weight="1.0" />
+      <edge id="1441" source="obgynvidalluz4" target="SureshUmang" weight="1.0" />
+      <edge id="1442" source="obgynvidalluz4" target="DDNational" weight="1.0" />
+      <edge id="1443" source="obgynvidalluz4" target="BeboKitkat" weight="1.0" />
+      <edge id="1444" source="SureshUmang" target="DDNational" weight="1.0" />
+      <edge id="1445" source="SureshUmang" target="BeboKitkat" weight="1.0" />
+      <edge id="1446" source="DDNational" target="BeboKitkat" weight="1.0" />
+      <edge id="1447" source="MirrorNow" target="anilvijminister" weight="1.0" />
+      <edge id="1448" source="MirrorNow" target="DDNewsLive" weight="1.0" />
+      <edge id="1449" source="anilvijminister" target="DDNewsLive" weight="1.0" />
+      <edge id="1450" source="amardeepkaushal" target="AsYouNotWish" weight="3.0" />
+      <edge id="1451" source="Kidsstoppress" target="sanchx" weight="1.0" />
+      <edge id="1452" source="Kidsstoppress" target="UNICEFIndia" weight="1.0" />
+      <edge id="1453" source="sanchx" target="UNICEFIndia" weight="1.0" />
+      <edge id="1454" source="CPDelhi" target="pwddelhi" weight="1.0" />
+      <edge id="1455" source="DelhiPolice" target="Uppolice" weight="3.0" />
+      <edge id="1456" source="DelhiPolice" target="DfsiKumar" weight="2.0" />
+      <edge id="1457" source="Uppolice" target="DfsiKumar" weight="2.0" />
+      <edge id="1458" source="MamataOfficial" target="ApiWenuwen" weight="1.0" />
+      <edge id="1459" source="Mpalawat" target="Rajeshkumar2974" weight="1.0" />
+      <edge id="1460" source="HMolinValdes" target="vijayshekhar" weight="1.0" />
+      <edge id="1461" source="HMolinValdes" target="CCACoalition" weight="1.0" />
+      <edge id="1462" source="vijayshekhar" target="CCACoalition" weight="1.0" />
+      <edge id="1463" source="vijayshekhar" target="NameFieldmt" weight="1.0" />
+      <edge id="1464" source="vijayshekhar" target="PaytmBank" weight="1.0" />
+      <edge id="1465" source="Showbiz_IT" target="aroonpurie" weight="1.0" />
+      <edge id="1466" source="p_ghildial" target="sureshpprabhu" weight="1.0" />
+      <edge id="1467" source="ChetanKammar" target="realGovindS" weight="1.0" />
+      <edge id="1468" source="mfuloria" target="MunCorpGurugram" weight="1.0" />
+      <edge id="1469" source="grantelliottnz" target="OfficialSLCB" weight="1.0" />
+      <edge id="1470" source="amitbhatt4u" target="WRICitiesIndia" weight="4.0" />
+      <edge id="1471" source="amitbhatt4u" target="MailOnline" weight="1.0" />
+      <edge id="1472" source="WSJ" target="RidgeOnSunday" weight="1.0" />
+      <edge id="1473" source="WSJ" target="Number10gov" weight="1.0" />
+      <edge id="1474" source="RidgeOnSunday" target="Number10gov" weight="1.0" />
+      <edge id="1475" source="prasol" target="YouTube" weight="19.0" />
+      <edge id="1476" source="NitishKumar" target="SushilModi" weight="1.0" />
+      <edge id="1477" source="NitishKumar" target="mangalpandeybjp" weight="1.0" />
+      <edge id="1478" source="SushilModi" target="mangalpandeybjp" weight="1.0" />
+      <edge id="1479" source="PollutedIndians" target="MaheshNBhatt" weight="1.0" />
+      <edge id="1480" source="APFitoutfinance" target="SkySports" weight="1.0" />
+      <edge id="1481" source="AnjaliMody1" target="tweetndmc" weight="3.0" />
+      <edge id="1482" source="SMEAatUW" target="washingtonpost" weight="1.0" />
+      <edge id="1483" source="shivuvivek" target="Acutereply" weight="3.0" />
+      <edge id="1484" source="shivuvivek" target="Gpinnks" weight="3.0" />
+      <edge id="1485" source="Acutereply" target="Gpinnks" weight="3.0" />
+      <edge id="1486" source="manoj23oct" target="imsanjaimishra" weight="1.0" />
+      <edge id="1487" source="GargiRawat" target="RidlrDEL" weight="1.0" />
+      <edge id="1488" source="indiaopendata" target="IndianExpress" weight="2.0" />
+      <edge id="1489" source="YasminKidwai" target="ProfCong" weight="5.0" />
+      <edge id="1490" source="YasminKidwai" target="ProfCongDelhi" weight="5.0" />
+      <edge id="1491" source="ProfCong" target="ProfCongDelhi" weight="6.0" />
+      <edge id="1492" source="ShekharGupta" target="sanjayuvacha" weight="1.0" />
+      <edge id="1493" source="Mal_Malika" target="kaulnishu87" weight="2.0" />
+      <edge id="1494" source="SmokeyBot" target="annoyed_being" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
