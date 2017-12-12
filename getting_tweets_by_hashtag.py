@@ -64,7 +64,7 @@ collection=database['delhi_tweets']		#Make another collection for mumbai_tweets 
 #-----------------------------------------------------------------------------------------------------------------------
 
 with open('delhi_pollution_tweet.json','w') as f:
-#with open('mumbai_rain_tweet.json','w') as f: # this is for mumabi tweets json file
+#with open('mumbai_rain_tweet.json','w') as f: # this is for mumabi tweets json
 
 # While we want to keep collecting up to maximum no. of tweets
 	while no_of_tweets_collected < max_no_of_tweets:
