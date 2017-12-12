@@ -43,9 +43,9 @@ print(api.rate_limit_status()['resources']['search'] )
 We are all set for making the query we'll seprate the mutiple HASHTAGS by using OR.
 Note: Try to keep the query less than 140 characters
 '''
-query_delhi='#myrighttobreathe OR #smog OR #crop Burning OR\
+query_delhi=' #DelhiSmog OR #Smog OR #myrighttobreathe OR #smog OR #crop Burning OR\
 		 #delhi OR #delhichokes OR #AirPollution OR \
-			#StopPollutionCrimes OR #letdelhibreathe OR #smoginDelhi OR \
+			#StopPollutionCrimes OR #letdelhibreathe OR #SmogInDelhi OR \
 			 #Delhi_Pollution OR #delhismog OR #delhipollution'
 
 #query_mumbai='#CycloneOckhi OR #MumbaiRains OR #MumbaiRain OR #Cyclone OR #Ockhi'
@@ -63,7 +63,8 @@ collection=database['delhi_tweets']		#Make another collection for mumbai_tweets 
 
 #-----------------------------------------------------------------------------------------------------------------------
 
-with open('mummai_rain_cyclone.json','w') as f:
+with open('delhi_pollution_tweet.json','w') as f:
+#with open('mumbai_rain_tweet.json','w') as f: # this is for mumabi tweets json file
 
 # While we want to keep collecting up to maximum no. of tweets
 	while no_of_tweets_collected < max_no_of_tweets:
@@ -79,6 +80,7 @@ with open('mummai_rain_cyclone.json','w') as f:
 				break
 
 			for tweet in tweets:
+
 				id=tweet.id_str
 				user=tweet.user.name
 				try:
@@ -128,20 +130,24 @@ with open('mummai_rain_cyclone.json','w') as f:
 								"Retweet":re_tweet,
 								"Fav":fav
 							}
-				# we will store this json in our collection for further analysis
-					collection.insert_one(jsonx)
+# we will store this json in our collection for further analysis
+					
+					f.write(jsonpickle.encode(jsonx, unpicklable=False)+'\n')
 
+					collection.insert_one(jsonx)
+					
+					
 				except pymongo.errors.DuplicateKeyError as e:
 					print('Duplicate Data, Record Already Exist.')
 
 			no_of_tweets_collected+=len(tweets)
 
 			print("{0} tweets Downloaded".format(no_of_tweets_collected))
-	# Record the id of the last tweet we looked at
+# Record the id of the last tweet we looked at
 			max_id=tweets[-1].id
 
 		except tweepy.TweepError as e:
-			#print the error and continue searching
+#print the error and continue searching
 			print("Error : "+str(e))
 
-	print(" {0} tweets downloaded".format(no_of_tweets_collected))
+print(" {0} tweets downloaded".format(no_of_tweets_collected))
