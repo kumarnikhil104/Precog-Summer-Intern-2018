@@ -46,7 +46,8 @@ query_delhi='#myrighttobreathe OR #smog OR #crop Burning OR\
 			 #Delhi_Pollution OR #delhismog OR #delhipollution'
 
 #query_mumbai='#CycloneOckhi OR #MumbaiRains OR #MumbaiRain OR #Cyclone OR #Ockhi'
-no_of_tweets= 10000 			# The number of tweets you want to collect.
+
+no_of_tweets= 10000 		# The number of tweets you want to collect.
 no_of_tweets_per_query=100  	# As Specified in the Note above
-collected_tweet=0 				# keeping count of the no. of tweets which has been collected
+collected_tweet=0 			# keeping count of the no. of tweets which has been collected
 
