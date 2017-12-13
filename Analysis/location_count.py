@@ -1,4 +1,4 @@
-# Queries the all_tweets collection and creates a new collection with the distribution of locations.
+
 import json, urllib, pymongo, requests
 KEY = "AIzaSyDPhMMoBq_AN7oqOp4xjpSQW2z9SI0i8bY" # Google Places API Key
 
@@ -28,7 +28,7 @@ i = 0
 location_count = {}
 for tweet in coll.find():
     i += 1
-    loc = get_location(tweet["location"]) # Creation of collection.
+    loc = get_location(tweet["location"])
     if loc not in location_count:
         location_count[loc] = 1
     else:

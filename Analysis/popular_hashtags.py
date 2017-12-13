@@ -1,29 +1,30 @@
-# Queries the all_tweets collection and creates a new collection with the occurrences of the 10 most common hashtags.
-import pymongo
 
-client = pymongo.MongoClient()
-db = client.precog
-#coll = db.delhi_tweets
-coll=db.mumbai_tweets
+try:
+    from pymongo import MongoClient
+    client = pymongo.MongoClient()
+    db = client.precog
+    coll = db.delhi_tweets
 
-toAdd = db.hash_count_mumbai
+    #coll=db.mumbai_tweets
 
-hashtag_count = {}
-for tweet in coll.find():
-    ht = tweet["hashtags"]
-    for hash in ht:
-        hash = hash.lower()
-        if hash not in hashtag_count: # Adding and checking dem hashtags.
-            hashtag_count[hash] = 1
-        else:
-            hashtag_count[hash] += 1
+    toAdd = db.hash_count_mumbai
 
-hc = sorted(hashtag_count, key=hashtag_count.get, reverse=True) # Sorting and slicing to get the top 10.
-count = 0
+    hashtag_count = {}
+    for tweet in coll.find():
+        ht = tweet["hashtags"]
+        for hash in ht:
+            hash = hash.lower()
+            if hash not in hashtag_count: # Adding and checking dem hashtags.
+                hashtag_count[hash] = 1
+            else:
+                hashtag_count[hash] += 1
 
-for z in hc:
-    if count == 15: # getting 13 popular tweets
-        break
-    jsonx = {"hashtag": z, "count": str(hashtag_count[z])}
-    toAdd.insert_one(jsonx)
-    count += 1
+    hc = sorted(hashtag_count, key=hashtag_count.get, reverse=True) # Sorting and slicing to get the top 10.
+    count = 0
+
+    for z in hc:
+        if count == 15: # getting 13 popular tweets
+            break
+        jsonx = {"hashtag": z, "count": str(hashtag_count[z])}
+        toAdd.insert_one(jsonx)
+        count += 1
