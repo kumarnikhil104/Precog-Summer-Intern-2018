@@ -8,3 +8,5 @@ Steps:<br>
  <strong>Note: MongoDB server should be running on the localhost.</strong>
  <br>
  4.After the above step you can find a json file for the tweets in the directory as well as mongodb collection under the database name Precog.<br>
+
+![screenshot 35](https://user-images.githubusercontent.com/20018574/33928854-6178059a-e00d-11e7-99e7-d0a11223d45c.png)
