@@ -5,7 +5,7 @@ client = pymongo.MongoClient()
 db = client.precog
 coll = db.mumbai_tweets
 #coll =db.delhi_tweets
-toAdd = db.type_count
+toAdd = db.type_count_mumbai
 
 type_count = {"text": 0, "image":0, "both":0} 
 for tweet in coll.find():

@@ -3,8 +3,10 @@ import pymongo
 
 client = pymongo.MongoClient()
 db = client.precog
-coll = db.delhi_tweets
-toAdd = db.hash_count
+#coll = db.delhi_tweets
+coll=db.mumbai_tweets
+
+toAdd = db.hash_count_mumbai
 
 hashtag_count = {}
 for tweet in coll.find():
@@ -20,7 +22,7 @@ hc = sorted(hashtag_count, key=hashtag_count.get, reverse=True) # Sorting and sl
 count = 0
 
 for z in hc:
-    if count == 10:
+    if count == 15: # getting 13 popular tweets
         break
     jsonx = {"hashtag": z, "count": str(hashtag_count[z])}
     toAdd.insert_one(jsonx)

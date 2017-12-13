@@ -3,7 +3,7 @@ import pymongo
 
 client = pymongo.MongoClient()
 db = client.precog
-coll = db.delhi_tweets
+coll = db.mumbai_tweets
 toAdd = db.fav_count
 
 fav_count = {100:0,90:0,80:0,70:0,60:0,50:0,40:0,30:0,20:0,10:0,0:0} # Fav counts greater than dict key to be added in value.

@@ -3,8 +3,8 @@ import pymongo
 
 client = pymongo.MongoClient()
 db = client.precog
-coll = db.delhi_tweets
-toAdd = db.category_count
+coll = db.mumbai_tweets
+toAdd = db.category_count_mumbai
 
 category_count = {"OT": 0, "RT":0}
 for tweet in coll.find():
@@ -15,6 +15,8 @@ for tweet in coll.find():
         category_count["OT"] += 1 # Re Tweets
 
 jsonx = {"category": "OT", "hits": str(category_count["OT"])}
+print(jsonx)
 toAdd.insert_one(jsonx)
 jsonx = {"category": "RT", "hits": str(category_count["RT"])}
+print(jsonx)
 toAdd.insert_one(jsonx)
