@@ -1,4 +1,5 @@
 # Precog-Summer-Intern-2018
+https://nikhil-for-precog-task.herokuapp.com/<br>
 This is the Task appointed by the Precog-IIIT-Delhi for the selection of Summer Intern. In this project we have to extract tweets using the #hashtags eg. #delhismog #myrighttobreathe #cycoloneockhi #mumbairains ,etc.
 
 Steps:<br>
@@ -14,3 +15,5 @@ Steps:<br>
 <br>
 <strong>Mumbai</strong>
 ![screenshot 35](https://user-images.githubusercontent.com/20018574/33928854-6178059a-e00d-11e7-99e7-d0a11223d45c.png)
+<br>
+![screenshot 31](https://user-images.githubusercontent.com/20018574/33976071-c27bccae-e0b8-11e7-8e7e-18cf648c0205.png)
