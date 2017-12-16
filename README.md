@@ -1,3 +1,8 @@
+**Note:** The dataset uploaded here was collected in two times and then merged.
+ First Data collection was on 9th of December and second time it was on 12th December.
+ All the analysis except the "Tweet inflow chart" was performed on the first dataset which was collected.
+ The uploaded datasets are combination of both without duplicate tweets.
+
 # Precog-Summer-Intern-2018
 https://nikhil-for-precog-task.herokuapp.com/<br>
 This is the Task appointed by the Precog-IIIT-Delhi for the selection of Summer Intern. In this project we have to extract tweets using the #hashtags eg. #delhismog #myrighttobreathe #cycoloneockhi #mumbairains ,etc.
